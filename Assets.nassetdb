@@ -1,0 +1,10 @@
+{
+    "99482210-9bf4-0168-817c-0c53028b7ccf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_SkyboxSpecular.tex.nasset"
+    },
+    "de84b2aa-fd2e-f1bf-d2d7-899f026e48e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
+    }
+}
