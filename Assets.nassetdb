@@ -162,6 +162,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset"
     },
+    "4f18ecdb-bae4-417d-a922-ebbf8a8b7ab8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Barrio Kart.scene.nasset"
+    },
     "4f312e31-8ab7-5a0e-df84-07e0caf96bfe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -287,6 +291,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "92b1adde-8a1e-4111-8669-6bb798104ab6": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Contents/Resources/Plug-ins/1b7a9e37-7221-4f7e-a266-df5cad4cef1e/Assets/ThumbnailScene.scene.nasset"
     },
     "9448a0ee-16c3-5416-9e8d-e4df1fcef35e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
