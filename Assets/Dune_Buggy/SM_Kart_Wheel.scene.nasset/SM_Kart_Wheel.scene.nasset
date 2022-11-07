@@ -1,0 +1,31 @@
+{
+    "guid": "2ab4cf93-518a-faf3-d0e9-8f8d7b523803",
+    "source": "../SM_Kart_Wheel.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "256fab1e-3b5d-b3fc-4a0a-617956f59c8b",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Kart Wheel"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7352cc1-0452-c533-de63-33b023d66dc5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Wheel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fdc92366-be95-7c16-6f3c-5e979954fbe8"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2ab4cf93-518a-faf3-d0e9-8f8d7b523803"
+    }
+}

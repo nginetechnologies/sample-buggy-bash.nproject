@@ -1,10 +1,512 @@
 {
+    "0532c88e-31aa-de30-3dcb-5f756ebb981c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset"
+    },
+    "05aecd9c-1da4-809a-64ef-e06d2448708d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset"
+    },
+    "0b393272-4f72-c569-3579-6757038a7b34": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "10b6481a-db98-50bd-b675-757ba4a4580a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "17bb4950-e59a-7d68-c268-23f07c60a3aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1841d76b-7cec-ac78-e5a2-8d3a89447b6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Violet 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "191803c1-bd77-7ff6-dfe7-38a8088cc843": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
+    },
+    "1d35d018-3c20-9ad6-1f3e-242b5ee4e309": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset"
+    },
+    "1dc588fd-e328-fd56-1e65-1a3e26f275da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "228ef93b-b5bf-52b2-7d1e-bb56e8f5088e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Indigo 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel Indigo 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2965b728-338a-1b66-c0dc-e4fe530e4b56": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset"
+    },
+    "2ab4cf93-518a-faf3-d0e9-8f8d7b523803": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/SM_Kart_Wheel.scene.nasset"
+    },
+    "2ac02e2e-826e-88f2-e7d3-1f1dc1a55e8e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset"
+    },
+    "2edc084f-7a1a-738e-4b54-173bd0d17707": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset"
+    },
+    "30ede2df-4d3a-ddda-8de5-b7425b39ff69": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Violet 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "329d4574-8991-022b-fb5e-0fed1f06bd9b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "33e1d9be-9316-ee6a-b2f1-58e19f1324c6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
+    },
+    "3add3dc2-d3e6-2686-e4f8-7c2950a77926": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset"
+    },
+    "3af5030d-580d-5b7e-9a82-535b849a748e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset"
+    },
+    "3ef566fc-7dd6-eaa6-9b70-3bcc2267d85b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4006694c-007c-8051-0a33-e8b46f4bb22b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "40de0723-24f9-f145-25e8-705cb4a87603": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "421a0dce-1878-161b-3e36-03e822b4a0a2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset"
+    },
+    "4514d77e-02a2-3dc9-4b95-b8e71d84e472": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Indigo 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "46fe009e-8df0-9a81-75c7-19a5f4e67457": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Grey 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset"
+    },
+    "4f312e31-8ab7-5a0e-df84-07e0caf96bfe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "50a30272-ce22-d4d3-8925-599c0596d542": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset"
+    },
+    "518d03ca-b11b-8c2e-6b0b-9db3fb683822": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset"
+    },
+    "522ab425-71e9-5982-aebd-bbecbf7a7a8e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset"
+    },
+    "535c1730-70ec-ecda-583f-0b49b808f89d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "560ea5a5-60a4-43f0-b39e-3bf23651709d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/SM_Kart_Body.scene.nasset"
+    },
+    "57d1da54-4b41-b868-b1f4-c95c9672f1f8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
+    },
+    "5d04feaf-7816-ebd1-0ea4-96a733e64676": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5fb814a7-ef21-312d-b480-2f80ad7e44b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Violet 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "627ad2d6-81e8-4d4e-efc3-df41e2660d3c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Sky 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6978018a-dfbb-cf74-0473-ed7a50fe4744": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset"
+    },
+    "6cc25a3e-6fb5-ce90-79b1-63f84a8a4366": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/SM_Kart_Body.scene.nasset"
+    },
+    "7f7e50c6-8312-dd6e-3266-ee0ea90f7ba9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
+    },
+    "81d10f46-b0b8-9670-0826-389ef10efe9f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/SM_Kart_Body.scene.nasset"
+    },
+    "82c94a7f-3149-abf5-a407-5e123d405d70": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "86beea40-f543-4df4-c3c8-eaa627671fbf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8973f901-e130-df8b-e79c-a0068cd61d30": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset"
+    },
+    "89781405-9291-9ed7-28b5-78c32351ed6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8b96784c-b0dd-be8b-a535-35f62ab3cf27": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset"
+    },
+    "8cd0663e-8ef0-1a4a-bed6-ed52a110e7d8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset"
+    },
+    "8f680d28-aca1-b19d-497c-58368f247258": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8fb3ac71-7a72-8c88-2324-6072c2a10447": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Sky 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9448a0ee-16c3-5416-9e8d-e4df1fcef35e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Indigo 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "99482210-9bf4-0168-817c-0c53028b7ccf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_SkyboxSpecular.tex.nasset"
     },
+    "9ce4be80-2b8d-8e2a-8803-a89f5e3dd379": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset"
+    },
+    "a34a4c04-c4f2-5115-f7ea-59b5029a2f3b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset"
+    },
+    "a34b9174-2e59-c699-4748-3ea584010fee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "aa4a1b34-44ae-0438-cd0a-0fe2402e767b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset"
+    },
+    "aa684033-9dea-f4f6-0c32-9eeeafcda8be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Indigo 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ab83255b-b2af-3e64-6078-660a91581730": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset"
+    },
+    "ae88dac1-6b46-6082-4753-30ad4d68c30c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/SM_Kart_Body.scene.nasset"
+    },
+    "b13ee346-2241-e6c1-ece2-2bec7e96c0a4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset"
+    },
+    "b3ecc44c-9f24-d745-db8f-42808e5ff26a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b6e6b1a0-78d7-e492-d03a-aab29bbe643e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset"
+    },
+    "b9a48ecc-5e98-a1ae-9397-6d2d19700c74": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset"
+    },
+    "ba4fe86c-92cc-5b9b-8137-b025cdcf6725": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
+    },
+    "bb50e14e-722d-f8ee-4b26-5ccb95db3c4d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset"
+    },
+    "c1341144-1714-ac95-ae51-5d9779b90dd4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c18691c9-cc6e-72dc-a642-f7680f1a485f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset"
+    },
+    "c48f6e66-ff4b-880a-888b-cfb3edd72707": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset"
+    },
+    "c6b19be0-1bb4-cd43-7558-bcc953d3c61c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Violet 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c8e3b777-40b5-468d-c8f8-6edac3682191": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d2b16b8d-56b0-d63f-65f7-791b04ee16a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Violet 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d8025fa0-15b7-7c7d-5f8b-c7f84d7e8288": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Indigo 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d856ed3d-8bac-6bbc-501e-2eac728dc0be": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset"
+    },
+    "de6665fe-6b2f-aa43-a830-e067769a3165": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset"
+    },
     "de84b2aa-fd2e-f1bf-d2d7-899f026e48e6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_SkyboxDiffuse.tex.nasset"
+    },
+    "df72e996-f393-ba8a-88b1-8d035c74087f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e6021de4-2ef7-25b0-9301-0b0a3ae70dd7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/SM_Kart_Body.scene.nasset"
+    },
+    "e6f46f98-0e12-04d6-e672-44184d9cee70": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Sky 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f25732de-4b83-8509-fc61-aad9d87f783c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset"
+    },
+    "f43db62c-3df8-cfc9-41bc-bbe27629e4a8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Grey 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f5a4e840-55d7-ffc5-f5db-181fb3cb09cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f7e8d2ca-c34f-d273-061f-ee996d1d192a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Sky 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f8840a02-c873-b616-6592-847e8c0223c9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Grey 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Sky 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "faf66685-5217-c5fc-0bbc-66c7efdb87ee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Grey 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fdc92366-be95-7c16-6f3c-5e979954fbe8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fe85e53c-a24c-77b5-6d77-a91962cfd089": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Grey 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     }
 }

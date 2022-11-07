@@ -21,14 +21,14 @@
             },
             "transform": {
                 "position": [
-                    -4.2165,
-                    0.812,
-                    3.3314
+                    -9.6891,
+                    4.6304,
+                    17.427
                 ],
                 "rotation": [
-                    -53.8462,
+                    -54.452,
                     -0.0,
-                    -103.9062
+                    -162.0113
                 ]
             },
             "grid_settings": {
@@ -80,8 +80,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -90,8 +90,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
@@ -105,7 +105,7 @@
                     11.3044
                 ],
                 "rotation": [
-                    -44.9907,
+                    -44.9903,
                     0.0,
                     0.0
                 ]
@@ -123,8 +123,9 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -133,9 +134,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light",
-                    "flags": 2
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
@@ -159,8 +159,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -169,10 +169,221 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 }
             ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0dee3a90-261b-48fe-b8d9-a7fe91d9df02",
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e6021de4-2ef7-25b0-9301-0b0a3ae70dd7"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0dee3a90-261b-48fe-b8d9-a7fe91d9df02"
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f4f4799-4620-e9c6-027b-293430733061",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.1579,
+                    -5.6129,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrio Kart"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+                    "instanceGuid": "0ac1d847-bb42-6d67-be20-7026a235d59e",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -25.1403,
+                            55.686,
+                            11.3044
+                        ],
+                        "rotation": [
+                            -44.9903,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                            "f141b823-5844-4fbc-b106-0635ff52199c"
+                        ]
+                    },
+                    "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                        "radius": 40.0,
+                        "irradiance": "9a440df6-5a4b-ef35-6786-58a35f0a62ab",
+                        "prefiltered": "3b2f409f-7a97-1934-00d7-d6dc75aff1cc"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Environment Light",
+                            "flags": 2
+                        },
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                            ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f18ecdb-bae4-417d-a922-ebbf8a8b7ab8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4b07266b-3896-445d-fefb-d30e386be2c6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.6998,
+                    -4.7637,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrio Kart"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+                    "instanceGuid": "8a4c39ba-92eb-87fc-9786-43ba4e0cca49",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -25.1403,
+                            55.686,
+                            11.3044
+                        ],
+                        "rotation": [
+                            -44.9903,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                            "f141b823-5844-4fbc-b106-0635ff52199c"
+                        ]
+                    },
+                    "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                        "radius": 40.0,
+                        "irradiance": "9a440df6-5a4b-ef35-6786-58a35f0a62ab",
+                        "prefiltered": "3b2f409f-7a97-1934-00d7-d6dc75aff1cc"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Environment Light",
+                            "flags": 2
+                        },
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                            ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f18ecdb-bae4-417d-a922-ebbf8a8b7ab8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "61d2b274-0b65-7efe-b1fb-8d4ddf317f74",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.1363,
+                    -6.6219,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrio Kart"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+                    "instanceGuid": "8ea2d482-4ee6-0795-0a1a-a06e49904498",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -25.1403,
+                            55.686,
+                            11.3044
+                        ],
+                        "rotation": [
+                            -44.9903,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                            "f141b823-5844-4fbc-b106-0635ff52199c"
+                        ]
+                    },
+                    "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                        "radius": 40.0,
+                        "irradiance": "9a440df6-5a4b-ef35-6786-58a35f0a62ab",
+                        "prefiltered": "3b2f409f-7a97-1934-00d7-d6dc75aff1cc"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Environment Light",
+                            "flags": 2
+                        },
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                            ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f18ecdb-bae4-417d-a922-ebbf8a8b7ab8"
+            }
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
