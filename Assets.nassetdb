@@ -38,6 +38,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "1872f85f-f7ed-8878-9561-a06915515dde": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Track/Material Instances/Wood Light.mtli.nasset"
+    },
     "191803c1-bd77-7ff6-dfe7-38a8088cc843": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
@@ -105,6 +109,13 @@
     "33e1d9be-9316-ee6a-b2f1-58e19f1324c6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
+    },
+    "3a18b7d7-0aad-ce52-ede2-f444cb2dc71e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Track/SM_Proc_Fence.scene.nasset/Proc Fence.mesh.nasset/Proc Fence.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "3add3dc2-d3e6-2686-e4f8-7c2950a77926": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -304,6 +315,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "96818b53-038b-dc0f-ed6a-8b300ca45cde": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Track/SM_Proc_Fence.scene.nasset/Proc Fence.mesh.nasset/Proc Fence Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "99482210-9bf4-0168-817c-0c53028b7ccf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_SkyboxSpecular.tex.nasset"
@@ -411,6 +430,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d44b9f36-1319-3c19-9ec8-9d2d9336777d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Track/Material Instances/Wood Dark.mtli.nasset"
+    },
+    "d7b59806-d7c6-5464-0fcb-901d251318c9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Track/SM_Proc_Fence.scene.nasset/SM_Proc_Fence.scene.nasset"
+    },
     "d8025fa0-15b7-7c7d-5f8b-c7f84d7e8288": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -451,6 +478,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "ee9d78a4-ffc2-8e28-6dc4-aaf73cfd9d9b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Track/Material Instances/Wood Medium.mtli.nasset"
+    },
+    "efbe9655-2aeb-6537-bf5d-b866cbaa2366": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Track/SM_Proc_Fence.scene.nasset/Proc Fence.mesh.nasset/Proc Fence Wood Medium.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "f25732de-4b83-8509-fc61-aad9d87f783c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset"
@@ -468,6 +507,14 @@
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f6c61706-514d-8223-56cb-244b4e123568": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Track/SM_Proc_Fence.scene.nasset/Proc Fence.mesh.nasset/Proc Fence Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "f7e8d2ca-c34f-d273-061f-ee996d1d192a": {
