@@ -49,8 +49,8 @@
                     },
                     "b0ec7111-5de9-4039-bee2-d915f63f929e": {
                         "fieldOfView": 60.0,
-                        "nearPlane": 0.05,
-                        "farPlane": 128.0
+                        "nearPlane": 0.1,
+                        "farPlane": 1024.0
                     },
                     "data_components": [
                         {
