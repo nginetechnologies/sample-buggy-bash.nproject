@@ -9,97 +9,25 @@
     "data_components": [],
     "children": [
         {
-            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "e08c4a41-6552-2f99-a721-df0eaa0bed42",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Kart Wheel Physics Body"
-                },
-                {
-                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "eb6f9c6d-4579-4ae4-e13b-d1c02be7ec02",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Kart Wheel Orange 500 Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "46801aba-9e55-e82e-4d7a-541c998e0816",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Kart Wheel Orange 500"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "329d4574-8991-022b-fb5e-0fed1f06bd9b",
-                                "material_instance": "b9a48ecc-5e98-a1ae-9397-6d2d19700c74"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "329d4574-8991-022b-fb5e-0fed1f06bd9b"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                },
-                {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "166858a6-7b78-f05e-4d96-e4ef2d0000ff",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Kart Wheel Indigo 500 Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "99f23beb-cbaf-85b7-41fa-0f5eddb845bc",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Kart Wheel Indigo 500"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8",
-                                "material_instance": "421a0dce-1878-161b-3e36-03e822b4a0a2"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                }
-            ]
-        }
+			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+			"instanceGuid": "99f23beb-cbaf-85b7-41fa-0f5eddb845bc",
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "Kart Wheel Indigo 500"
+				}
+			],
+			"9f750482-b822-4d4b-be6a-9c135c614328": {
+				"stages": [
+					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+				]
+			},
+			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+				"mesh": "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8",
+				"material_instance": "421a0dce-1878-161b-3e36-03e822b4a0a2"
+			}
+		}
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "fdc92366-be95-7c16-6f3c-5e979954fbe8"
