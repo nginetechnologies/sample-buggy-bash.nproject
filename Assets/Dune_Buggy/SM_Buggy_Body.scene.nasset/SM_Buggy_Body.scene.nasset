@@ -1,0 +1,31 @@
+{
+    "guid": "d93b368f-ce64-4518-8105-ad143fb179b3",
+    "source": "../SM_Buggy_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "afc60486-d4ad-88f3-8ed9-adb68dcdbbfb",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Buggy Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d8c899c-31ab-b78e-ae99-1c1c81c8658a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Buggy Float Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f7c26609-3a53-8d15-f1c8-1dffe9d70732"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d93b368f-ce64-4518-8105-ad143fb179b3"
+    }
+}

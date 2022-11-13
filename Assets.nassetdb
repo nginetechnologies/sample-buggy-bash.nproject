@@ -58,6 +58,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "017573fa-1971-7bd8-a88e-504396b2d23d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Body.mtli.nasset"
+    },
     "0189facb-9813-b927-e4bf-59777b6cabd8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Buzzy_EnviroDiffuse.tex.nasset"
@@ -100,6 +104,14 @@
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Striped 1 Tall Double.mesh.nasset/Track Cliff Incline Striped 1 Tall Double.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0274ab8c-e277-718f-66d3-95ce3a4ba43b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Bumper.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
     "0279dedb-0da5-8bc0-28c3-2d8a6efca8a7": {
@@ -1345,6 +1357,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign Upcoming Curve 90 Flipped.mesh.nasset/Prop Track Sign Upcoming Curve 90 Flipped Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2e22d4a6-781c-e024-f4c4-3e7633394847": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Rubber.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -3342,6 +3362,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "728afa22-6236-b131-245a-9e4bcbe01168": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Frame.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "729d8919-95f7-1798-a396-94009d5c9685": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3798,6 +3826,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "84c4863d-a9d4-c267-255b-f61869e4902a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel Buggy Rubber.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "8527ce60-b99e-f150-ab58-2972c5ba1f2e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3854,6 +3890,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "8657718d-15dd-b206-c024-cc53f192c6f5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Frame.mtli.nasset"
+    },
     "8665b271-e0db-53ae-ede9-fbaa5b300ab1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Lake.mesh.nasset/Lake.mesh.nasset",
@@ -3908,6 +3948,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "88502469-f782-f950-cf04-87014effe502": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/SM_Buggy_Wheel.scene.nasset"
     },
     "887186f9-446c-5995-3298-c9935036532f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4138,6 +4182,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "934f49a1-254e-b635-e2f9-55ec5854d9e4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Bumper.mtli.nasset"
     },
     "939dbcf1-d8bc-4cb4-6002-9cc717edd616": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4587,6 +4635,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Rim.mtli.nasset"
     },
     "a45a4ea1-a5a6-d2e2-c93f-a4b67ab4ad7f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5312,6 +5364,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "be561030-6cf1-02f0-f42b-ba9bb36c3abe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Rubber.mtli.nasset"
+    },
     "be67733d-5899-e8c9-1b4d-e54c10e89a9b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5463,6 +5519,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 1 Tall Single.mesh.nasset/Track Cliff Edge Striped 1 Tall Single Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c48bde56-fba4-3262-ecd7-3f5f31611258": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Body.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -5722,6 +5786,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Start.mesh.nasset/Track Bridge Start Wood Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cd8fa1c6-8df2-0388-38c4-61a2718ec023": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel Buggy Rim.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -6069,6 +6141,10 @@
     "d83d4c77-7f27-d402-bf1b-b867362f9633": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Boost Powerup.mtli.nasset"
+    },
+    "d93b368f-ce64-4518-8105-ad143fb179b3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/SM_Buggy_Body.scene.nasset"
     },
     "d96b75ca-d13a-5666-50ba-42593b776725": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6574,6 +6650,13 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "ebb84771-101e-7bda-4267-3688c201699f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "ebca6275-ca3d-7bc9-74b9-dd45dcc8b171": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6939,6 +7022,13 @@
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Esse Double Flipped.mesh.nasset/Track Striped Esse Double Flipped Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f7c26609-3a53-8d15-f1c8-1dffe9d70732": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "f7cd297b-0522-e1ee-7a69-b40314bf4ae6": {

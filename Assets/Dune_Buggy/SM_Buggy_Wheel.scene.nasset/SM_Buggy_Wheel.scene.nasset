@@ -1,0 +1,31 @@
+{
+    "guid": "88502469-f782-f950-cf04-87014effe502",
+    "source": "../SM_Buggy_Wheel.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3b976a5a-8b2c-8edc-1e73-35cd4aa1a337",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Buggy Wheel"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "19e58837-6919-5d55-4323-d6453bf8c33a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Buggy Float Wheel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ebb84771-101e-7bda-4267-3688c201699f"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "88502469-f782-f950-cf04-87014effe502"
+    }
+}
