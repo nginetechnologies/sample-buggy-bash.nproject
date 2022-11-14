@@ -543,6 +543,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "1141cf5f-8849-f867-815f-10ce132b1089": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Track/Material Instances/Proxy.mtli.nasset"
+    },
     "1190d2f5-2873-289b-efab-b654325a1a4c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1715,6 +1719,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "3bc994f1-b256-1395-1795-4265fada0b3b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Track/SM_Barrio_Bridge_Proxy.scene.nasset/SM_Barrio_Bridge_Proxy.mesh.nasset"
+    },
     "3c37a2bf-c3d8-79df-e1b8-780c7c6faad7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Yellow.mtli.nasset"
@@ -2836,6 +2845,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "61ec673b-4c2b-7ecb-baad-48abfcfc436c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Track/SM_Barrio_Bridge_Proxy.scene.nasset/SM_Barrio_Bridge_Proxy.scene.nasset"
     },
     "620e1115-f38c-6e8a-d7be-b7af0798e50e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
