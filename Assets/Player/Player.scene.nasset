@@ -29,7 +29,8 @@
                 "steeringResponsivness": 0.8,
                 "steeringReleaseResponsivness": 10.0,
                 "accelerationResponsivness": 3.0,
-                "accelerationReleaseResponsivness": 20.0
+                "accelerationReleaseResponsivness": 20.0,
+                "maxPitchRollAngle": 60.0
             },
             "children": [
                 {
@@ -55,8 +56,8 @@
                     "data_components": [
                         {
                             "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
-                            "rotationSpeed": 6.0,
-                            "positionSpeed": 14.0,
+                            "rotationSpeed": 4.0,
+                            "positionSpeed": 8.0,
                             "verticalStep": 0.0
                         },
                         {
@@ -102,14 +103,14 @@
                                 }
                             ],
                             "d91b1554-ed01-40a7-90eb-638fdb6e8ce0": {
-                                "minRPM": 92.0,
-                                "maxRPM": 637.0,
+                                "minRPM": 400.0,
+                                "maxRPM": 600.0,
                                 "maxTorque": 2000.0,
                                 "reverseGearRatio": -2.9,
-                                "gearSwitchTime": 0.1,
-                                "clutchReleaseTime": 0.1,
+                                "gearSwitchTime": 0.05,
+                                "clutchReleaseTime": 0.05,
                                 "shiftUpRPM": 550.0,
-                                "shiftDownRPM": 165.0
+                                "shiftDownRPM": 500.0
                             }
                         },
                         {
@@ -187,7 +188,7 @@
                                 "powerRatio": 0.8,
                                 "powerSplit": 0.5,
                                 "differentialRatio": 3.42,
-                                "antiRollBarStiffness": 0.0
+                                "antiRollBarStiffness": 100.0
                             },
                             "data_components": [
                                 {
@@ -215,7 +216,7 @@
                                         "suspensionStiffness": 1.0,
                                         "suspensionDamping": 0.3,
                                         "forwardGrip": 2.0,
-                                        "sidewaysGrip": 3.0
+                                        "sidewaysGrip": 2.0
                                     },
                                     "data_components": [
                                         {
@@ -265,7 +266,7 @@
                                         "suspensionStiffness": 1.0,
                                         "suspensionDamping": 0.3,
                                         "forwardGrip": 2.0,
-                                        "sidewaysGrip": 3.0
+                                        "sidewaysGrip": 2.0
                                     },
                                     "data_components": [
                                         {
@@ -312,7 +313,7 @@
                                 "powerRatio": 0.2,
                                 "powerSplit": 0.5,
                                 "differentialRatio": 3.42,
-                                "antiRollBarStiffness": 0.0
+                                "antiRollBarStiffness": 100.0
                             },
                             "data_components": [
                                 {
