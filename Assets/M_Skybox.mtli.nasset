@@ -3,11 +3,11 @@
     "material": "d5e247de-909a-43d2-a09f-b711e093d5cb",
     "descriptor_contents": [
         {
-            "texture": "6f794940-8127-ce70-5db0-dd402bfe6bfc",
+            "texture": "a6e8b812-86ee-20ce-4d85-fe4a3ec07690",
             "address_mode": 0
         }
     ],
-    "thumbnailGuid": "cbf3842a-5953-37be-784d-4dfa1fec8652",
+    "thumbnailGuid": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6",
     "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f"
 }
