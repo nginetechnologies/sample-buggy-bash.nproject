@@ -26,11 +26,11 @@
             ],
             "024630c0-b538-4b7a-8c20-d794ff8e7919": {
                 "steerAssistRatio": 1.0,
-                "steeringResponsivness": 0.8,
+                "steeringResponsivness": 3.0,
                 "steeringReleaseResponsivness": 10.0,
                 "accelerationResponsivness": 3.0,
                 "accelerationReleaseResponsivness": 20.0,
-                "maxPitchRollAngle": 60.0
+                "maxPitchRollAngle": 40.0
             },
             "children": [
                 {
@@ -39,11 +39,11 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0.0,
-                            -12.0,
-                            1.2
+                            -10.0,
+                            2.5
                         ],
                         "rotation": [
-                            -22.0,
+                            -10.0,
                             0.0,
                             0.0
                         ]
@@ -57,7 +57,7 @@
                         {
                             "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
                             "rotationSpeed": 4.0,
-                            "positionSpeed": 8.0,
+                            "positionSpeed": 16.0,
                             "verticalStep": 0.0
                         },
                         {
@@ -77,7 +77,7 @@
                         "layer": 1,
                         "body_flags": 4,
                         "maximumAngularVelocity": 2700.0,
-                        "overriddenMass": 1000.0,
+                        "overriddenMass": 1600.0,
                         "gravityScale": 2.5
                     },
                     "data_components": [
@@ -141,7 +141,7 @@
                                 "comOffset": [
                                     0.0,
                                     0.0,
-                                    -0.5
+                                    -0.7
                                 ]
                             },
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
@@ -185,10 +185,10 @@
                                 ]
                             },
                             "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
-                                "powerRatio": 0.8,
+                                "powerRatio": 0.3,
                                 "powerSplit": 0.5,
                                 "differentialRatio": 3.42,
-                                "antiRollBarStiffness": 100.0
+                                "antiRollBarStiffness": 500.0
                             },
                             "data_components": [
                                 {
@@ -211,12 +211,12 @@
                                         "maxSteeringAngle": 0.0,
                                         "radius": 0.5,
                                         "width": 0.5,
-                                        "minSuspensionLength": 0.0,
-                                        "maxSuspensionLength": 0.5,
-                                        "suspensionStiffness": 1.0,
-                                        "suspensionDamping": 0.3,
-                                        "forwardGrip": 2.0,
-                                        "sidewaysGrip": 2.0
+                                        "minSuspensionLength": 0.1,
+                                        "maxSuspensionLength": 0.6,
+                                        "suspensionStiffness": 1.1,
+                                        "suspensionDamping": 0.15,
+                                        "forwardGrip": 5.0,
+                                        "sidewaysGrip": 5.0
                                     },
                                     "data_components": [
                                         {
@@ -261,12 +261,12 @@
                                         "maxSteeringAngle": 0.0,
                                         "radius": 0.5,
                                         "width": 0.5,
-                                        "minSuspensionLength": 0.0,
-                                        "maxSuspensionLength": 0.5,
-                                        "suspensionStiffness": 1.0,
-                                        "suspensionDamping": 0.3,
-                                        "forwardGrip": 2.0,
-                                        "sidewaysGrip": 2.0
+                                        "minSuspensionLength": 0.1,
+                                        "maxSuspensionLength": 0.6,
+                                        "suspensionStiffness": 1.1,
+                                        "suspensionDamping": 0.15,
+                                        "forwardGrip": 5.0,
+                                        "sidewaysGrip": 5.0
                                     },
                                     "data_components": [
                                         {
@@ -310,10 +310,10 @@
                                 ]
                             },
                             "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
-                                "powerRatio": 0.2,
+                                "powerRatio": 0.7,
                                 "powerSplit": 0.5,
                                 "differentialRatio": 3.42,
-                                "antiRollBarStiffness": 100.0
+                                "antiRollBarStiffness": 500.0
                             },
                             "data_components": [
                                 {
@@ -333,15 +333,15 @@
                                         ]
                                     },
                                     "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
-                                        "maxSteeringAngle": 60.0,
+                                        "maxSteeringAngle": 30.0,
                                         "radius": 0.5,
                                         "width": 0.5,
-                                        "minSuspensionLength": 0.0,
-                                        "maxSuspensionLength": 0.5,
-                                        "suspensionStiffness": 1.0,
-                                        "suspensionDamping": 0.3,
+                                        "minSuspensionLength": 0.1,
+                                        "maxSuspensionLength": 0.6,
+                                        "suspensionStiffness": 1.1,
+                                        "suspensionDamping": 0.15,
                                         "maxHandbrakeTorque": 0.0,
-                                        "forwardGrip": 2.0,
+                                        "forwardGrip": 5.0,
                                         "sidewaysGrip": 3.0
                                     },
                                     "data_components": [
@@ -385,15 +385,15 @@
                                         ]
                                     },
                                     "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
-                                        "maxSteeringAngle": 60.0,
+                                        "maxSteeringAngle": 30.0,
                                         "radius": 0.5,
                                         "width": 0.5,
-                                        "minSuspensionLength": 0.0,
-                                        "maxSuspensionLength": 0.5,
-                                        "suspensionStiffness": 1.0,
-                                        "suspensionDamping": 0.3,
+                                        "minSuspensionLength": 0.1,
+                                        "maxSuspensionLength": 0.6,
+                                        "suspensionStiffness": 1.1,
+                                        "suspensionDamping": 0.15,
                                         "maxHandbrakeTorque": 0.0,
-                                        "forwardGrip": 2.0,
+                                        "forwardGrip": 5.0,
                                         "sidewaysGrip": 3.0
                                     },
                                     "data_components": [
