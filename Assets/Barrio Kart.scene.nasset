@@ -7,25 +7,33 @@
     },
     "data_components": [
         {
+            "typeGuid": "7cf4ed1d-8eaf-485d-a41a-10ec7756ff41"
+        },
+        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
                 "9ae0e145-86b4-4e47-afda-697bbd008922": {
                     "fieldOfView": 60.0,
                     "nearPlane": 0.1,
-                    "farPlane": 1024.0
+                    "farPlane": 1024.0,
+                    "panSpeed": 1000.0,
+                    "pinchSpeed": 50.0,
+                    "rotationSpeed": 500.0,
+                    "orbitRotationSpeed": 10.0,
+                    "scrollSpeed": 0.1
                 }
             },
             "transform": {
                 "position": [
-                    -52.2989,
-                    -362.9729,
-                    224.2492
+                    -106.8848,
+                    -402.8323,
+                    290.3889
                 ],
                 "rotation": [
-                    -39.8245,
+                    -41.5751,
                     -0.0,
-                    -49.9442
+                    -51.9316
                 ]
             },
             "grid_settings": {
@@ -40,9 +48,6 @@
                     }
                 }
             }
-        },
-        {
-            "typeGuid": "7cf4ed1d-8eaf-485d-a41a-10ec7756ff41"
         }
     ],
     "children": [
@@ -57,8 +62,8 @@
                 ],
                 "rotation": [
                     0.0,
-                    0.0,
-                    92.9996
+                    -0.0,
+                    92.9998
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
@@ -66,14 +71,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -115,14 +120,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -158,15 +163,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light",
-                    "flags": 2
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -194,14 +199,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -216,37 +221,6 @@
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "2a80eb2f-dff0-248b-73fa-b05216bc5490"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "c1880887-f84a-c3a6-cfba-a4ca61412105",
-                    "data_components": [
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "fa40e9be-aa64-9a2d-5c63-51f3f439fb6b"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-                            "instanceGuid": "3db25379-bb4e-5ecf-0cd9-7dc77f399285",
-                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "rotation": [
-                                    -85.3713,
-                                    -0.0,
-                                    -0.0
-                                ]
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "5b893e2d-d250-99aa-ef9c-e465c39ca27e"
-                                }
-                            ]
-                        }
-                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
