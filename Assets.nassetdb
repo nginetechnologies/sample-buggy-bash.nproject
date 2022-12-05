@@ -60,7 +60,8 @@
     },
     "017573fa-1971-7bd8-a88e-504396b2d23d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Buggy Body.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Body.mtli.nasset",
+        "thumbnail": "fbf9ef78-1c16-3dff-e5db-872858bffc92"
     },
     "0189facb-9813-b927-e4bf-59777b6cabd8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -73,6 +74,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "01c1e8cc-f5e2-67c0-7fc5-3569057e0318": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 4.mesh.nasset/Thumbnails/Prop Decorative Rock 4.mesh.nasset.tex.nasset"
     },
     "01ce9b28-54f8-c6c3-d016-6452087733e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -92,11 +97,13 @@
     },
     "020ec50f-4f39-0a66-c0f5-76026bfe1f85": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Dirt.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Dirt.mtli.nasset",
+        "thumbnail": "3aa85c4a-5c4c-375f-83a8-afcdb17adada"
     },
     "023f80b3-0b13-ea9e-51fe-df99879867d0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Wood Darker.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Wood Darker.mtli.nasset",
+        "thumbnail": "43118e25-a2d7-4f3c-7dc6-e2e12cfa4e49"
     },
     "025a51fd-fe02-ce37-21c4-31615b6bf1d8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -117,6 +124,7 @@
     "0279dedb-0da5-8bc0-28c3-2d8a6efca8a7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Double 4x4.mesh.nasset/Track Striped Curve Double 4x4.mesh.nasset",
+        "thumbnail": "d7fad752-5312-a905-b284-f7d4ab67fe44",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -124,6 +132,7 @@
     "027f1407-20e6-a8e8-afe7-77574e6d42a4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Side 1x3.mesh.nasset/Terrain Hill Side 1x3.mesh.nasset",
+        "thumbnail": "44f0ace2-9afb-2059-0361-be7fcf75be9c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -147,9 +156,18 @@
     "03284029-e9af-38df-359a-32a2e9cc447b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Curve Single 3x3.mesh.nasset/Track Standard Curve Single 3x3.mesh.nasset",
+        "thumbnail": "a94bc7fa-1ae7-1b73-65c9-101e5c4cb3c4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "03457252-06a7-7d65-2eea-2d9597affbf2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped End Straight Single.mesh.nasset/Thumbnails/Track Striped End Straight Single.mesh.nasset.tex.nasset"
+    },
+    "0347ef05-3cf0-4deb-4a05-6a889306b42a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 4x4.mesh.nasset/Thumbnails/Prop Decorative Fence Curve 4x4.mesh.nasset.tex.nasset"
     },
     "03802eea-e878-92fb-3d48-689cdd1ec287": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -170,6 +188,7 @@
     "044cb601-a1c0-fbdb-d355-083501791d28": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Curve Widening 4x5 Flipped.mesh.nasset/Track Standard Curve Widening 4x5 Flipped.mesh.nasset",
+        "thumbnail": "7c0e33cf-ed02-cc2f-b091-a45bca411b79",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -185,9 +204,18 @@
     "052db3e3-4d91-05d3-c4dc-a8c379e85a32": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Outer 5x5.mesh.nasset/Terrain Hill Corner Outer 5x5.mesh.nasset",
+        "thumbnail": "207e46fc-90f3-3294-6acd-8fd3f74d6afb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "05a5b0ea-3193-1ece-1cab-f8347a562f61": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Straight Widening.mesh.nasset/Thumbnails/Track Striped Straight Widening.mesh.nasset.tex.nasset"
+    },
+    "05b0315a-1ada-a6c9-1379-42971d82236b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Corner Inner 1x1.mesh.nasset/Thumbnails/Terrain Cliff 3 Tall Corner Inner 1x1.mesh.nasset.tex.nasset"
     },
     "05bd3028-3e09-5aee-0623-7c3d3db1fbe2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -233,6 +261,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "07810350-57f1-51f9-cd77-94d0d8802d7d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Sky 500.mtli.nasset.tex.nasset"
+    },
     "07d84685-dbdd-70e6-8f44-16ec756616b5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -264,6 +296,7 @@
     "097e565d-946e-5f53-18c4-107b3affd3db": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Widening 5x6.mesh.nasset/Track Striped Curve Widening 5x6.mesh.nasset",
+        "thumbnail": "335e2803-ed25-ad2c-e5cf-90e56ba61b66",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -275,6 +308,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "0a2235cf-4280-c85b-c679-b3dffaf6d275": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Standard 1 Tall Double.mesh.nasset/Thumbnails/Track Cliff Incline Standard 1 Tall Double.mesh.nasset.tex.nasset"
     },
     "0a61276c-6a39-4d09-bad9-20ca3d89bfaf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -304,6 +341,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Buzzy_EnviroSpecular.tex.nasset"
     },
+    "0adb5832-ac37-70a5-93dc-cc0612c7fdbd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Cliff Curve Striped Single 6x6.mesh.nasset/Thumbnails/Cliff Curve Striped Single 6x6.mesh.nasset.tex.nasset"
+    },
     "0b383155-17cc-65bf-0286-2d5612aa31c6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -319,6 +360,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "0bd0eb61-9c57-760e-36a3-ba236b37d114": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Sharp Flat Supported.mesh.nasset/Thumbnails/Track Bridge Incline Sharp Flat Supported.mesh.nasset.tex.nasset"
+    },
+    "0bdfe3bc-9f61-2d1b-3a66-43c7a775a530": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Bark Oak.mtli.nasset.tex.nasset"
     },
     "0c1114b7-ae70-c11f-19fd-265ec3fc24ed": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -443,6 +492,7 @@
     "0eed7a0a-8c8e-4cc8-a3d0-fd0e78371cd9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 7.mesh.nasset/Prop Decorative Rock 7.mesh.nasset",
+        "thumbnail": "43ce316b-c07c-1032-4cc1-7ddcd7df3b73",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -454,6 +504,7 @@
     "0f756840-d0d5-e45f-391d-610f3e14e8a9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Cedar 2.mesh.nasset/Prop Decorative Tree Cedar 2.mesh.nasset",
+        "thumbnail": "35f43d83-7891-402a-4caf-256a0cb79bd4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -485,6 +536,7 @@
     "1016a647-7e0b-75fd-1ea5-ae26b81f8967": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 2 Tall Side.mesh.nasset/Terrain Cliff 2 Tall Side.mesh.nasset",
+        "thumbnail": "1c08a1ea-5c88-64db-97c5-c8f491e4db96",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -492,6 +544,7 @@
     "1016d6de-6094-bd3b-a4de-8002a8dd6f14": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 5.mesh.nasset/Prop Decorative Tree Elm 5.mesh.nasset",
+        "thumbnail": "48c35e2d-e1b8-f2a6-555e-1ffa80a0e804",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -545,7 +598,12 @@
     },
     "1141cf5f-8849-f867-815f-10ce132b1089": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Proxy.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Proxy.mtli.nasset",
+        "thumbnail": "ebcea8bf-3f5e-92da-73e2-259b5386aa4f"
+    },
+    "1168df3d-d90d-1536-e3c2-fe0a206f0e9f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign On Curve Flipped.mesh.nasset/Thumbnails/Prop Track Sign On Curve Flipped.mesh.nasset.tex.nasset"
     },
     "1190d2f5-2873-289b-efab-b654325a1a4c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -559,9 +617,14 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Grass.mtli.nasset"
     },
+    "119a443c-cab6-b226-2fd6-a4f80e75be29": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Side.mesh.nasset/Thumbnails/Terrain Cliff Top Side.mesh.nasset.tex.nasset"
+    },
     "11b96ff2-2361-1314-852a-f0f349137836": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 5x5.mesh.nasset/Track Cliff Curve Striped Single 5x5.mesh.nasset",
+        "thumbnail": "694d08a2-aee8-6a10-35c4-3ec00a32329b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -598,6 +661,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "12756435-2f59-f67c-c1fd-7024448d88f3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Metal Iron.mtli.nasset.tex.nasset"
+    },
+    "12d17b64-d993-a634-f5c5-117f3c1186cd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Piers.mesh.nasset/Thumbnails/Track Bridge Piers.mesh.nasset.tex.nasset"
+    },
     "132c75e0-d160-6002-dc5e-e6cbd951494a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -624,7 +695,8 @@
     },
     "13dc2027-6f43-44cf-4fb6-1be6f24e2106": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Metal Iron.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Metal Iron.mtli.nasset",
+        "thumbnail": "12756435-2f59-f67c-c1fd-7024448d88f3"
     },
     "140dff57-476a-7b0b-6e09-e86458e45915": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -636,7 +708,8 @@
     },
     "14f14181-c96c-ddf1-904c-667417839166": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Straw.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Straw.mtli.nasset",
+        "thumbnail": "24903b3e-7730-6ab8-0861-dbf68d352511"
     },
     "1523aea8-78b9-44d1-aa3d-9d3dfc21d35d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -678,6 +751,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "165bea5a-052a-7f5a-e509-af84b244c558": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Widening 5x6 Flipped.mesh.nasset/Thumbnails/Track Striped Curve Widening 5x6 Flipped.mesh.nasset.tex.nasset"
+    },
     "16852896-3447-84cb-1ea9-ccba717278c4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -693,6 +770,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "17198900-0ad9-13bf-0382-e74b74e2a320": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Flat Floating.mesh.nasset/Thumbnails/Track Bridge Flat Floating.mesh.nasset.tex.nasset"
     },
     "173151c3-8f29-559a-8b57-33cebb82f407": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -710,6 +791,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "17dbb5dd-f390-06f4-05c9-bfa50ab335d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Wood Light.mtli.nasset.tex.nasset"
+    },
     "17e829ac-8ec0-9cf4-6f2b-8e715676ef2b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -721,6 +806,7 @@
     "18173ac2-2999-3a17-f083-6afd77e94b77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Flat Supported.mesh.nasset/Track Bridge Flat Supported.mesh.nasset",
+        "thumbnail": "7896c911-7363-3a7c-e0dc-fbe0b167f49e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -744,9 +830,14 @@
     "18accc82-06ac-7770-e0b0-d16f067ad72b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Esse Double Flipped.mesh.nasset/Track Striped Esse Double Flipped.mesh.nasset",
+        "thumbnail": "5f2b1fec-9175-9666-3c29-0312ddf6c484",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "19039f5c-2f4f-7af3-f607-75bb2f10fd77": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 3.mesh.nasset/Thumbnails/Prop Decorative Rock 3.mesh.nasset.tex.nasset"
     },
     "1960e895-e18c-c9e9-9738-4d697db4bf41": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -771,6 +862,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "1aed86c1-7edb-9581-0413-681a4b75bcb5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Esse 2x3 Flipped.mesh.nasset/Thumbnails/Prop Decorative Fence Esse 2x3 Flipped.mesh.nasset.tex.nasset"
     },
     "1b6bd9ad-e782-79ab-00d1-9d3957ee1fc4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -808,6 +903,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "1c08a1ea-5c88-64db-97c5-c8f491e4db96": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 2 Tall Side.mesh.nasset/Thumbnails/Terrain Cliff 2 Tall Side.mesh.nasset.tex.nasset"
+    },
     "1c5ee837-1946-a862-c0d0-2f6a9a1c9c66": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -831,6 +930,7 @@
     "1ca3ae98-00d2-2c8e-d7a1-bbf92bf0d1d1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Straight Double.mesh.nasset/Track Standard Straight Double.mesh.nasset",
+        "thumbnail": "8ac19cee-a0f8-5dae-347d-852d7f75bad4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -855,6 +955,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "1e0057d0-c15c-d493-55bf-9ebe372fa271": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Corner Outer 1x1.mesh.nasset/Thumbnails/Terrain Cliff 3 Tall Corner Outer 1x1.mesh.nasset.tex.nasset"
+    },
     "1e07daab-5235-3f64-fcdc-46db2ea1555c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -874,9 +978,14 @@
     "1e384010-b94a-dea0-9cbe-55f993a83e77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Arch 1x4.mesh.nasset/Prop Track Arch 1x4.mesh.nasset",
+        "thumbnail": "dc824052-e0cf-bbaa-1496-a3fc81d542ec",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "1e3d8bb4-b84b-c696-e870-8e866dc9588d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Corner Outer 1x1.mesh.nasset/Thumbnails/Terrain Cliff Top Corner Outer 1x1.mesh.nasset.tex.nasset"
     },
     "1e5ddecf-3da1-ccfd-83c7-d88bef7a1c9c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -897,6 +1006,7 @@
     "1efd3f7f-a2ca-8728-8dec-0646bc0bff6d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Incline Single.mesh.nasset/Track Striped Incline Single.mesh.nasset",
+        "thumbnail": "c0efd1d3-7374-6644-abfb-8df4d02c1a9d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -920,6 +1030,7 @@
     "1f7630e1-0832-1edb-5e0f-2187753347e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Cedar 1.mesh.nasset/Prop Decorative Tree Cedar 1.mesh.nasset",
+        "thumbnail": "740ea5ab-1e8c-925e-2e3e-a547f529643d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -939,6 +1050,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "207e46fc-90f3-3294-6acd-8fd3f74d6afb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Outer 5x5.mesh.nasset/Thumbnails/Terrain Hill Corner Outer 5x5.mesh.nasset.tex.nasset"
     },
     "208b840f-1454-f79f-593d-56d87f7b5384": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1015,6 +1130,7 @@
     "2257e703-9288-678b-2442-ae8563931fba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 1 Tall Single.mesh.nasset/Track Cliff Edge Striped 1 Tall Single.mesh.nasset",
+        "thumbnail": "77bfa65b-6a2c-8cb1-1f1b-ce4182e995af",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1051,9 +1167,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "24903b3e-7730-6ab8-0861-dbf68d352511": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Straw.mtli.nasset.tex.nasset"
+    },
     "2490c52d-7429-8e44-abad-6d0f57e3cc5b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Windmill Building 2.mesh.nasset/Prop Decorative Windmill Building 2.mesh.nasset",
+        "thumbnail": "2d95a38c-5507-961a-4397-f3dfc0f6a5fb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1090,9 +1211,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "2519fc0c-b5f6-403e-0852-4a6b2c14d4e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 6.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 6.mesh.nasset.tex.nasset"
+    },
     "25463a3e-03ad-cf8b-45bc-dca56e04944e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Sharp Flat Floating.mesh.nasset/Track Bridge Incline Sharp Flat Floating.mesh.nasset",
+        "thumbnail": "bd636fcb-495e-b998-e5b4-a5920b53c302",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1100,6 +1226,7 @@
     "25ab634e-9049-8536-d2d3-b210edcf5f71": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Corner Inner 1x1.mesh.nasset/Terrain Cliff 3 Tall Corner Inner 1x1.mesh.nasset",
+        "thumbnail": "05b0315a-1ada-a6c9-1379-42971d82236b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1204,6 +1331,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "2846a404-aacc-1106-3622-b5f87692c5ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Side.mesh.nasset/Thumbnails/Terrain Cliff 3 Tall Side.mesh.nasset.tex.nasset"
+    },
     "28619e71-e08f-136d-8995-dd03d6465c5b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1246,7 +1377,8 @@
     },
     "2965b728-338a-1b66-c0dc-e4fe530e4b56": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset",
+        "thumbnail": "07810350-57f1-51f9-cd77-94d0d8802d7d"
     },
     "2974fba1-70dc-2c56-9a00-5cb6acb011bf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1341,6 +1473,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "2d95a38c-5507-961a-4397-f3dfc0f6a5fb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Windmill Building 2.mesh.nasset/Thumbnails/Prop Decorative Windmill Building 2.mesh.nasset.tex.nasset"
+    },
+    "2d99eee6-6fac-133a-2526-accafa3bca36": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Yellow.mtli.nasset.tex.nasset"
+    },
     "2da268f4-7429-7133-61b9-d1507b5f0800": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1375,7 +1515,8 @@
     },
     "2e62f39a-6aef-a991-e195-745ce047d5db": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Red.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Red.mtli.nasset",
+        "thumbnail": "4994f5b9-d8e9-0bec-ef11-3608b42467e7"
     },
     "2eb39dbb-833f-6749-67d5-2fe95451b719": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1404,6 +1545,7 @@
     "2f3de2c9-a469-370d-4a1c-b7a34e51c70b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Standard 3 Tall Single.mesh.nasset/Track Cliff Edge Standard 3 Tall Single.mesh.nasset",
+        "thumbnail": "8093df99-a6d9-8a07-0b0a-f3986409c46c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1440,6 +1582,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "3155bb13-b385-fd47-2623-83d303e266de": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Start.mesh.nasset/Thumbnails/Track Bridge Start.mesh.nasset.tex.nasset"
+    },
+    "31bb5104-71b7-77a4-181c-03862680d5d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Pile Pitchfork.mesh.nasset/Thumbnails/Prop Decorative Hay Pile Pitchfork.mesh.nasset.tex.nasset"
+    },
     "3260e854-73d5-ea26-df6b-3d6f21d5aa53": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1467,6 +1617,7 @@
     "32b41aa9-e24b-b66d-59e8-9f775f17e440": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Inner 5x5.mesh.nasset/Terrain Hill Corner Inner 5x5.mesh.nasset",
+        "thumbnail": "9646c094-cda2-9243-d435-c8ba54136b3c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1498,6 +1649,7 @@
     "3335ae95-a5ea-7748-4cf1-4616a2cc37ad": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 3.mesh.nasset/Prop Decorative Rock 3.mesh.nasset",
+        "thumbnail": "19039f5c-2f4f-7af3-f607-75bb2f10fd77",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1505,9 +1657,14 @@
     "335d3299-c6aa-8549-983f-ea87aebd5697": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 5x6.mesh.nasset/Prop Decorative Fence Curve 5x6.mesh.nasset",
+        "thumbnail": "cd3396a6-af08-8645-02b8-b33026b1d668",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "335e2803-ed25-ad2c-e5cf-90e56ba61b66": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Widening 5x6.mesh.nasset/Thumbnails/Track Striped Curve Widening 5x6.mesh.nasset.tex.nasset"
     },
     "33ae227a-7c07-86d2-7758-5510c5f84d53": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1544,6 +1701,7 @@
     "34b2c408-fde7-363e-9a2f-2d7fa1fa5410": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped End Straight Double.mesh.nasset/Track Striped End Straight Double.mesh.nasset",
+        "thumbnail": "7e622e2b-6308-665a-3abd-8b1ca5455f0d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1564,6 +1722,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "3516a54e-580e-b62b-8965-5d05943d5370": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Ramp Speed Boost.mesh.nasset/Thumbnails/Prop Track Ramp Speed Boost.mesh.nasset.tex.nasset"
+    },
     "35a08d23-2dc2-289c-604a-684d1debeb13": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1580,13 +1742,19 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "35f43d83-7891-402a-4caf-256a0cb79bd4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Cedar 2.mesh.nasset/Thumbnails/Prop Decorative Tree Cedar 2.mesh.nasset.tex.nasset"
+    },
     "36a1bd14-e79e-3f21-6e2f-45b722df4c7d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Grey.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Grey.mtli.nasset",
+        "thumbnail": "5f41bbc6-13c0-2c1d-c287-260bd4e93a9e"
     },
     "36dda60c-4e27-8762-1c40-83a0ff0073b8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 4.mesh.nasset/Prop Decorative Rock 4.mesh.nasset",
+        "thumbnail": "01c1e8cc-f5e2-67c0-7fc5-3569057e0318",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1695,6 +1863,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "3aa85c4a-5c4c-375f-83a8-afcdb17adada": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Dirt.mtli.nasset.tex.nasset"
+    },
     "3add7974-3269-22ae-f3da-3ad49a2d7211": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1719,6 +1891,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "3ba03a7e-b8a1-d5a7-5b1d-dfe47fb68749": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Stucco.mtli.nasset.tex.nasset"
+    },
     "3bc994f1-b256-1395-1795-4265fada0b3b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1726,7 +1902,8 @@
     },
     "3c37a2bf-c3d8-79df-e1b8-780c7c6faad7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Yellow.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Yellow.mtli.nasset",
+        "thumbnail": "2d99eee6-6fac-133a-2526-accafa3bca36"
     },
     "3cdbbf47-bde0-3cb5-85a9-ffc949346dc5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1827,13 +2004,15 @@
     "3f04080a-17e9-9421-1baf-fdc1ac4fbeb4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 2 Tall Corner Inner 2x2.003.mesh.nasset/Terrain Cliff 2 Tall Corner Inner 2x2.003.mesh.nasset",
+        "thumbnail": "d4b213f6-1066-0eaf-dfae-537c580731a4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "3f137a9e-5310-474c-d72a-33d053401abc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/White.mtli.nasset"
+        "path": "Assets/Track/Material Instances/White.mtli.nasset",
+        "thumbnail": "b2e2724c-a593-6f5d-4f2f-63cbc92d9dde"
     },
     "3f7162a3-2cc0-6cd7-936c-78e207e1c71f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1846,6 +2025,7 @@
     "3fa60ea6-7bd4-de0a-5d13-a6c90b07f4b6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Start.mesh.nasset/Track Bridge Start.mesh.nasset",
+        "thumbnail": "3155bb13-b385-fd47-2623-83d303e266de",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1868,7 +2048,8 @@
     },
     "4024908e-1d33-0b25-2bb3-0f776df4abcd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Rock.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Rock.mtli.nasset",
+        "thumbnail": "dd7a2c4e-1717-d60d-bc03-7769efd852d5"
     },
     "403e9c45-7f5a-64f6-8c0a-ac95a516288c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1885,6 +2066,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "41469294-9d18-9cee-584c-51e2f3f2a9af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Incline Double.mesh.nasset/Thumbnails/Track Striped Incline Double.mesh.nasset.tex.nasset"
     },
     "41a5047b-894d-0097-5a01-46092439f8ce": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1905,6 +2090,7 @@
     "41dd1b55-154d-e0ef-8829-0dbb937d2976": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 2 Tall Single.mesh.nasset/Track Cliff Edge Striped 2 Tall Single.mesh.nasset",
+        "thumbnail": "4c65b9d2-d65c-8d73-65ec-91477dfc8eeb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1936,6 +2122,7 @@
     "41f93282-1c21-f14b-ba5a-9afba1d2d8dd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Cedar 3.mesh.nasset/Prop Decorative Tree Cedar 3.mesh.nasset",
+        "thumbnail": "b65ace2b-849b-3e27-6cb0-189c1d8d5c49",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1950,7 +2137,8 @@
     },
     "421a0dce-1878-161b-3e36-03e822b4a0a2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset",
+        "thumbnail": "e3250881-c6b1-4d74-61da-0b96c0841a81"
     },
     "424b6029-6fe2-d4c3-02f0-add21a0e83d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1963,6 +2151,7 @@
     "42deb348-14f4-81fb-fea5-ff708cb43d46": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Start Flat to Sharp.mesh.nasset/Track Bridge Start Flat to Sharp.mesh.nasset",
+        "thumbnail": "57b03fa9-83c5-62c9-74f8-95e455d6c00d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2007,6 +2196,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "43118e25-a2d7-4f3c-7dc6-e2e12cfa4e49": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Wood Darker.mtli.nasset.tex.nasset"
+    },
     "43b9018d-2f9c-814d-1c72-947ef99353e9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2015,9 +2208,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "43ce316b-c07c-1032-4cc1-7ddcd7df3b73": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 7.mesh.nasset/Thumbnails/Prop Decorative Rock 7.mesh.nasset.tex.nasset"
+    },
     "43d2d649-e2eb-766e-7201-9825c8706255": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Curve 3x3.mesh.nasset/Track Bridge Curve 3x3.mesh.nasset",
+        "thumbnail": "7a1743c6-7526-f6af-b8ac-0b58c1eafd78",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2045,6 +2243,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "44aabdad-5b6e-59ed-465e-1fdc1dfa1d03": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Violet 500.mtli.nasset.tex.nasset"
+    },
+    "44f0ace2-9afb-2059-0361-be7fcf75be9c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Side 1x3.mesh.nasset/Thumbnails/Terrain Hill Side 1x3.mesh.nasset.tex.nasset"
     },
     "451ebc95-fe36-b3a0-0a98-c9ed32fdeb3b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2078,6 +2284,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "4594eede-7e74-c29e-6ba9-296e6eabe696": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Wood Dark.mtli.nasset.tex.nasset"
+    },
     "45a964b3-dbdd-1171-4061-ee5f0eab11d2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2109,6 +2319,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "4675ab23-d8c6-7650-44a2-afa911cfaff6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Grass Flat 1x1.mesh.nasset/Thumbnails/Terrain Grass Flat 1x1.mesh.nasset.tex.nasset"
     },
     "46a17d31-f921-5152-1494-dac4ebde7ded": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2174,6 +2388,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "47e9ecbc-ff31-6a61-fddb-a6ac3800aecb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Esse Single.mesh.nasset/Thumbnails/Track Striped Esse Single.mesh.nasset.tex.nasset"
+    },
     "481098e9-d2ee-de67-5496-25e996570969": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2214,9 +2432,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "48c35e2d-e1b8-f2a6-555e-1ffa80a0e804": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 5.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 5.mesh.nasset.tex.nasset"
+    },
     "491a3d13-1666-7831-7ace-147710926a42": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Outer 4x4.mesh.nasset/Terrain Hill Corner Outer 4x4.mesh.nasset",
+        "thumbnail": "908c0801-d26d-5578-c103-2894ce2eea0a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2252,6 +2475,7 @@
     "49630309-85eb-553a-82ce-866ce6277af9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Curve 3x3 Piers.mesh.nasset/Track Bridge Curve 3x3 Piers.mesh.nasset",
+        "thumbnail": "c26c1110-de0b-52ae-49a7-e1ccfc0015ce",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2263,6 +2487,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "4994f5b9-d8e9-0bec-ef11-3608b42467e7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
     },
     "49ace580-e875-1860-a8d4-16c528136ecc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2296,13 +2524,19 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "4a1835c0-3828-2993-1544-5d6620357200": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 5x5.mesh.nasset/Thumbnails/Prop Decorative Fence Curve 5x5.mesh.nasset.tex.nasset"
+    },
     "4a5049be-c0db-eee7-2f7c-2ae786359fb5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Water Lake.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Water Lake.mtli.nasset",
+        "thumbnail": "a485f29f-621d-5d7d-e362-790ebcf1bf33"
     },
     "4a5d675d-eb95-fc8a-0c88-aba912ed9eb3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Corner Inner 2x2.mesh.nasset/Terrain Cliff Top Corner Inner 2x2.mesh.nasset",
+        "thumbnail": "ee27fb40-4d44-c788-ea16-5bea279d43a7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2338,6 +2572,7 @@
     "4b556da6-ee81-28f2-7b0a-bf9aef733c2e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign Upcoming Curve 180.mesh.nasset/Prop Track Sign Upcoming Curve 180.mesh.nasset",
+        "thumbnail": "74e8d619-0a69-b997-8dc7-06d96f4e96bf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2368,11 +2603,16 @@
     },
     "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset",
+        "thumbnail": "80e5594c-62d6-dc51-98c5-17ce87dbc08c"
     },
     "4c4dca2c-b5cb-f6d0-cf28-4ec1d3e657ff": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Grey.mtli.nasset"
+    },
+    "4c65b9d2-d65c-8d73-65ec-91477dfc8eeb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 2 Tall Single.mesh.nasset/Thumbnails/Track Cliff Edge Striped 2 Tall Single.mesh.nasset.tex.nasset"
     },
     "4c709026-4c96-caa2-725a-4400c9880d59": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2388,11 +2628,17 @@
     },
     "4d85137f-851c-1ba2-dbde-0d1687ffc63a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Water Ocean.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Water Ocean.mtli.nasset",
+        "thumbnail": "70eaaf5b-942a-4654-85a7-075365d1479e"
+    },
+    "4e20517e-2175-7ba3-65c4-54e2d5b1ad6b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Boost Powerup.mtli.nasset.tex.nasset"
     },
     "4ec55c1c-f8ef-7d57-4852-0711f0a6a800": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Flat Sharp Supported.mesh.nasset/Track Bridge Incline Flat Sharp Supported.mesh.nasset",
+        "thumbnail": "79b567ce-64f9-434e-a62f-f766aa61054a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2434,9 +2680,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4fca276e-f61b-5d45-76c0-235d4a1a1887": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Rubber.mtli.nasset.tex.nasset"
+    },
     "4fcf51dc-30eb-80ba-1ab0-e6d7b5cf6815": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign On Curve Flipped.mesh.nasset/Prop Track Sign On Curve Flipped.mesh.nasset",
+        "thumbnail": "1168df3d-d90d-1536-e3c2-fe0a206f0e9f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2468,6 +2719,7 @@
     "51828daa-021d-3d24-64ca-1c1266fb8674": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Side.mesh.nasset/Terrain Cliff Top Side.mesh.nasset",
+        "thumbnail": "119a443c-cab6-b226-2fd6-a4f80e75be29",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2483,6 +2735,7 @@
     "525d15b2-7f8b-c00b-ca7c-71b604b52c35": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Striped 3 Tall Single.mesh.nasset/Track Cliff Incline Striped 3 Tall Single.mesh.nasset",
+        "thumbnail": "635e55b5-c6cd-b681-6834-1d9b11dcf2f6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2505,7 +2758,12 @@
     },
     "52e85b12-bbbc-68bf-48d2-b59f959c8e63": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Boost Powerup.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Boost Powerup.mtli.nasset",
+        "thumbnail": "4e20517e-2175-7ba3-65c4-54e2d5b1ad6b"
+    },
+    "53121e1a-26f9-22fa-e306-7b541c9c6b0b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 1.mesh.nasset/Thumbnails/Prop Decorative Rock 1.mesh.nasset.tex.nasset"
     },
     "53576640-35c3-94b8-4dd3-c1de1602aff1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2607,6 +2865,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Wood Medium.mtli.nasset"
     },
+    "56c3a50c-50f6-a91c-9a51-ef9be4fe00a9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Grey 02.mtli.nasset.tex.nasset"
+    },
     "56d3a1a4-9fb6-2562-c35a-f757a8c56931": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2626,6 +2888,7 @@
     "5700f48a-1953-1e85-dec3-4b8ac270093f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Railing.mesh.nasset/Prop Decorative Fence Railing.mesh.nasset",
+        "thumbnail": "68f56b2f-bb90-007a-0f16-9490bdf20709",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2665,6 +2928,10 @@
     "5792aa9b-72af-dd26-17ab-2b95adf73283": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Stucco.mtli.nasset"
+    },
+    "57b03fa9-83c5-62c9-74f8-95e455d6c00d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Start Flat to Sharp.mesh.nasset/Thumbnails/Track Bridge Start Flat to Sharp.mesh.nasset.tex.nasset"
     },
     "57d7c7e4-403d-0de3-3e7a-7edea4a180ee": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2717,9 +2984,14 @@
     "590aa2d3-9345-dccd-104f-1a81a9f66c90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Incline Double.mesh.nasset/Track Striped Incline Double.mesh.nasset",
+        "thumbnail": "41469294-9d18-9cee-584c-51e2f3f2a9af",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "59a9766c-6427-a934-1ec6-a46b451c18fd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 2x2.mesh.nasset/Thumbnails/Prop Decorative Fence Curve 2x2.mesh.nasset.tex.nasset"
     },
     "59b82774-6705-8ffe-51e1-9c1ef4c932f6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2753,7 +3025,8 @@
     },
     "5a78e92a-0f95-ecb7-9242-e336ca7eb697": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/SC_Barrio_Kart.scene.nasset"
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/SC_Barrio_Kart.scene.nasset",
+        "thumbnail": "b736ffd1-18a0-9e61-8646-22dd97aca183"
     },
     "5ab388a7-8dd2-a22d-de88-b0c9e990cd9a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2765,7 +3038,8 @@
     },
     "5bdee766-85ea-5988-02d6-98a2aff9875f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Leaves.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Leaves.mtli.nasset",
+        "thumbnail": "790f7338-9eaf-ae78-ec59-f461d057648e"
     },
     "5c1b082f-a28e-5b10-4eb2-06b1a7947adf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2783,9 +3057,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "5c827f67-74ee-8113-bba8-0034477609ed": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 4.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 4.mesh.nasset.tex.nasset"
+    },
     "5d7852f3-430d-98c9-f73d-43858e6a3734": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Wood Medium.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Wood Medium.mtli.nasset",
+        "thumbnail": "a0edecfc-ab7a-8ceb-c9e5-acd638d25ce1"
     },
     "5e5dff98-d8f1-7c40-39e7-4c5eb6175a23": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2802,6 +3081,18 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "5f2b1fec-9175-9666-3c29-0312ddf6c484": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Esse Double Flipped.mesh.nasset/Thumbnails/Track Striped Esse Double Flipped.mesh.nasset.tex.nasset"
+    },
+    "5f40401f-e2c4-2284-718c-65c39a22b82c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Corner Inner 2x2.mesh.nasset/Thumbnails/Terrain Cliff 3 Tall Corner Inner 2x2.mesh.nasset.tex.nasset"
+    },
+    "5f41bbc6-13c0-2c1d-c287-260bd4e93a9e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
     },
     "5fa4f04a-c784-0386-2104-c9e0875b3a58": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2822,6 +3113,7 @@
     "602be331-f868-ba52-c326-be8e12a0afae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 3.mesh.nasset/Prop Decorative Tree Elm 3.mesh.nasset",
+        "thumbnail": "c3549a9f-eea0-9b3f-87c2-6c44d8072a0e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2846,6 +3138,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "61cd6ac3-7a8d-8fe2-41a9-3b4aa882f52b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Gray 500.mtli.nasset.tex.nasset"
+    },
     "61ec673b-4c2b-7ecb-baad-48abfcfc436c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SM_Barrio_Bridge_Proxy.scene.nasset/SM_Barrio_Bridge_Proxy.scene.nasset"
@@ -2853,13 +3149,19 @@
     "620e1115-f38c-6e8a-d7be-b7af0798e50e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Esse Single.mesh.nasset/Track Standard Esse Single.mesh.nasset",
+        "thumbnail": "d24b292d-a2e9-e658-d0c0-fe0f6fec1216",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "6281e0e2-9273-d75e-2437-3ec1da3a2fb1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Corner Inner 1x1.mesh.nasset/Thumbnails/Terrain Cliff Top Corner Inner 1x1.mesh.nasset.tex.nasset"
+    },
     "631615a8-cb4b-8408-77ba-81a736e8dea6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Ramp Speed Boost.mesh.nasset/Prop Track Ramp Speed Boost.mesh.nasset",
+        "thumbnail": "3516a54e-580e-b62b-8965-5d05943d5370",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2871,6 +3173,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "635e55b5-c6cd-b681-6834-1d9b11dcf2f6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Striped 3 Tall Single.mesh.nasset/Thumbnails/Track Cliff Incline Striped 3 Tall Single.mesh.nasset.tex.nasset"
     },
     "63844630-52cc-af50-4521-6df0791dcbb5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2991,6 +3297,7 @@
     "66e4e609-e975-daba-f5c2-bf2611ce8191": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Bale Box.mesh.nasset/Prop Decorative Hay Bale Box.mesh.nasset",
+        "thumbnail": "a6f1de9f-9175-338b-de6c-65c65ed33568",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3002,6 +3309,7 @@
     "672fba3b-1573-a995-af79-c85a59039c84": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 6x6.mesh.nasset/Track Cliff Curve Striped Single 6x6.mesh.nasset",
+        "thumbnail": "e14fd92f-af24-6dd9-d03b-11113da25ad7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3017,6 +3325,7 @@
     "6786f603-53e6-c232-870d-0b8e142e3444": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Straight Single.mesh.nasset/Track Striped Straight Single.mesh.nasset",
+        "thumbnail": "cf590eb4-720a-0aa5-29e6-874658fd38e2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3037,6 +3346,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "67faa78b-e608-3bb8-0444-2e390a1badb9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Grey 40.mtli.nasset.tex.nasset"
+    },
     "685b2c35-40ec-42d1-2c66-d5d01f8b9906": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3045,9 +3358,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "688ec807-9bc7-da73-f25b-8b128555d474": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Grey 20.mtli.nasset.tex.nasset"
+    },
     "68dae8cc-ff62-889d-aad0-0130da470644": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Wood Light.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Wood Light.mtli.nasset",
+        "thumbnail": "17dbb5dd-f390-06f4-05c9-bfa50ab335d7"
+    },
+    "68f56b2f-bb90-007a-0f16-9490bdf20709": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Railing.mesh.nasset/Thumbnails/Prop Decorative Fence Railing.mesh.nasset.tex.nasset"
     },
     "6911ded6-cff1-7262-e91b-9d618325060b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3064,6 +3386,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "694d08a2-aee8-6a10-35c4-3ec00a32329b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 5x5.mesh.nasset/Thumbnails/Track Cliff Curve Striped Single 5x5.mesh.nasset.tex.nasset"
     },
     "695371af-7d43-2ad8-598e-5ddbafd1840b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3083,7 +3409,8 @@
     },
     "6978018a-dfbb-cf74-0473-ed7a50fe4744": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset",
+        "thumbnail": "56c3a50c-50f6-a91c-9a51-ef9be4fe00a9"
     },
     "6993ee0b-be2f-e452-cdae-2304cb4a4422": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3164,6 +3491,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "6bc30416-fb57-2b30-19dc-db9a33e76d74": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Cedar Leaves.mtli.nasset.tex.nasset"
     },
     "6bf7ce15-bf34-a2cb-db31-a15e7909c8c8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3296,6 +3627,7 @@
     "6fa00fad-aebb-510b-b33b-72591aa5d70f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Finish Line Double Blank.mesh.nasset/Track Striped Finish Line Double Blank.mesh.nasset",
+        "thumbnail": "f51cac07-c776-a608-afb5-7fbf24413eac",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3312,6 +3644,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7026fa0b-3d7d-a741-11b7-b9bfb6369fa6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 5.mesh.nasset/Thumbnails/Prop Decorative Rock 5.mesh.nasset.tex.nasset"
+    },
     "7045351e-15e5-9de1-7d0f-b2ff9d8e43b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3319,6 +3655,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "70eaaf5b-942a-4654-85a7-075365d1479e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Water Ocean.mtli.nasset.tex.nasset"
     },
     "7114ca39-7d6a-123f-98c6-dd33f4f18d79": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3339,6 +3679,7 @@
     "714b8be0-27fa-b159-f342-6a0715d4b089": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Widening 5x6 Flipped.mesh.nasset/Track Striped Curve Widening 5x6 Flipped.mesh.nasset",
+        "thumbnail": "165bea5a-052a-7f5a-e509-af84b244c558",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3402,6 +3743,7 @@
     "731a5e28-403e-4712-a7d3-7c5f224f71d8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Striped 3 Tall Double.mesh.nasset/Track Cliff Incline Striped 3 Tall Double.mesh.nasset",
+        "thumbnail": "d9172c6e-7748-f654-b6ff-f37e3755c25b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3425,6 +3767,7 @@
     "737d90b9-c244-2833-a87c-5260bdac9a6f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 3 Tall Single.mesh.nasset/Track Cliff Edge Striped 3 Tall Single.mesh.nasset",
+        "thumbnail": "8a6c61b4-b08d-415c-c401-038964164f6b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3440,9 +3783,14 @@
     "73cddd15-c50a-c862-96c0-a1abf27a5f38": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign On Curve.mesh.nasset/Prop Track Sign On Curve.mesh.nasset",
+        "thumbnail": "7ae7b8a3-0091-7b9b-d946-7fe31ee53639",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "73e8a005-5813-09a3-a3a8-cc78606a9360": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 7.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 7.mesh.nasset.tex.nasset"
     },
     "73f3c0bc-60e0-f61a-8fb7-29609d43c8e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3452,9 +3800,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "740ea5ab-1e8c-925e-2e3e-a547f529643d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Cedar 1.mesh.nasset/Thumbnails/Prop Decorative Tree Cedar 1.mesh.nasset.tex.nasset"
+    },
     "746cc848-9fea-0729-e075-05bcc2f9e8d0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Single 5x5.mesh.nasset/Track Striped Curve Single 5x5.mesh.nasset",
+        "thumbnail": "95521cc9-9875-05ad-f0b5-817f72d56b35",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3482,6 +3835,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "74e8d619-0a69-b997-8dc7-06d96f4e96bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign Upcoming Curve 180.mesh.nasset/Thumbnails/Prop Track Sign Upcoming Curve 180.mesh.nasset.tex.nasset"
     },
     "75230ad4-5693-c77b-579c-e0a31c426031": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3518,6 +3875,7 @@
     "767ecaf5-3427-628a-177a-ba2d81420e52": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign Upcoming Curve 90 Flipped.mesh.nasset/Prop Track Sign Upcoming Curve 90 Flipped.mesh.nasset",
+        "thumbnail": "bf4adcaa-6884-0600-a702-b20d3cbdc466",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3525,6 +3883,7 @@
     "7681d362-be19-a8fa-f895-3f02048a46e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Grass Flat 1x1.mesh.nasset/Terrain Grass Flat 1x1.mesh.nasset",
+        "thumbnail": "4675ab23-d8c6-7650-44a2-afa911cfaff6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3553,6 +3912,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "77bfa65b-6a2c-8cb1-1f1b-ce4182e995af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 1 Tall Single.mesh.nasset/Thumbnails/Track Cliff Edge Striped 1 Tall Single.mesh.nasset.tex.nasset"
+    },
+    "77ce3db1-a2d9-be8a-c8cc-34ada770f629": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Double 5x5.mesh.nasset/Thumbnails/Track Striped Curve Double 5x5.mesh.nasset.tex.nasset"
+    },
     "780b8e5c-19b5-da1c-5186-7635e9ca9e43": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3561,9 +3928,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7896c911-7363-3a7c-e0dc-fbe0b167f49e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Flat Supported.mesh.nasset/Thumbnails/Track Bridge Flat Supported.mesh.nasset.tex.nasset"
+    },
     "78cb407a-37ec-64ad-1ccc-1a2fbcee2887": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 7.mesh.nasset/Prop Decorative Tree Elm 7.mesh.nasset",
+        "thumbnail": "73e8a005-5813-09a3-a3a8-cc78606a9360",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3575,6 +3947,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "790f7338-9eaf-ae78-ec59-f461d057648e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Leaves.mtli.nasset.tex.nasset"
     },
     "7930ad72-7726-582b-b173-6193a460b88b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3591,6 +3967,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "79b567ce-64f9-434e-a62f-f766aa61054a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Flat Sharp Supported.mesh.nasset/Thumbnails/Track Bridge Incline Flat Sharp Supported.mesh.nasset.tex.nasset"
     },
     "79d379c0-083e-0302-71fe-6d36c16d9eb6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3616,12 +3996,21 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "7a1743c6-7526-f6af-b8ac-0b58c1eafd78": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Curve 3x3.mesh.nasset/Thumbnails/Track Bridge Curve 3x3.mesh.nasset.tex.nasset"
+    },
     "7a736833-c2cc-588c-dc15-e462bc731e17": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Striped 1 Tall Double.mesh.nasset/Track Cliff Incline Striped 1 Tall Double.mesh.nasset",
+        "thumbnail": "b5a55ea5-ccc6-fabb-d52e-529dce10ef24",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "7ae7b8a3-0091-7b9b-d946-7fe31ee53639": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign On Curve.mesh.nasset/Thumbnails/Prop Track Sign On Curve.mesh.nasset.tex.nasset"
     },
     "7b0efb3b-9b86-e7c0-b3d4-b31e0720ef5a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3631,6 +4020,10 @@
     "7bc6d4dd-13e9-8549-2661-ad369676e551": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Boost Powerup.mtli.nasset"
+    },
+    "7c0e33cf-ed02-cc2f-b091-a45bca411b79": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Curve Widening 4x5 Flipped.mesh.nasset/Thumbnails/Track Standard Curve Widening 4x5 Flipped.mesh.nasset.tex.nasset"
     },
     "7cb29d1d-0c5a-7a6f-fa4f-db6608891a8c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3672,6 +4065,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "7e622e2b-6308-665a-3abd-8b1ca5455f0d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped End Straight Double.mesh.nasset/Thumbnails/Track Striped End Straight Double.mesh.nasset.tex.nasset"
+    },
     "7e7d2567-c21a-4f9a-a339-7710cc606609": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3695,6 +4092,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "7fc9a320-59fa-813e-4e98-83cd2ae180d5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 5x6 Flipped.mesh.nasset/Thumbnails/Prop Decorative Fence Curve 5x6 Flipped.mesh.nasset.tex.nasset"
     },
     "7fcec773-f163-332e-24c9-19f6a612dabe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3736,6 +4137,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8093df99-a6d9-8a07-0b0a-f3986409c46c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Standard 3 Tall Single.mesh.nasset/Thumbnails/Track Cliff Edge Standard 3 Tall Single.mesh.nasset.tex.nasset"
+    },
+    "80e5594c-62d6-dc51-98c5-17ce87dbc08c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Yellow 500.mtli.nasset.tex.nasset"
+    },
+    "817377a7-6e3b-4c5f-6848-e3b8de1be5db": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Bumper.mtli.nasset.tex.nasset"
+    },
     "81dfde12-c947-c9ba-861c-4cbbc4bedd20": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3752,6 +4165,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "82c358f9-6207-ea11-0ea9-2894146a8dc9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 2 Tall Corner Outer 1x1.mesh.nasset/Thumbnails/Terrain Cliff 2 Tall Corner Outer 1x1.mesh.nasset.tex.nasset"
+    },
     "82c94a7f-3149-abf5-a407-5e123d405d70": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3763,6 +4180,7 @@
     "82cbc832-0f35-a403-31e5-5d36ebf03a8d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Banner Finish Line Double Checkered.mesh.nasset/Prop Track Banner Finish Line Double Checkered.mesh.nasset",
+        "thumbnail": "a26d22a9-f779-8778-6639-825eb5f19d72",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3806,6 +4224,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "839164d3-87c1-40bb-a534-6f498203f121": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Windmill Building 1.mesh.nasset/Thumbnails/Prop Decorative Windmill Building 1.mesh.nasset.tex.nasset"
     },
     "83c1545e-9b78-8c7c-4bf5-d5b611441f97": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3905,11 +4327,13 @@
     },
     "8657718d-15dd-b206-c024-cc53f192c6f5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Buggy Frame.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Frame.mtli.nasset",
+        "thumbnail": "c30b46ad-5c9f-2ea4-205f-7207c3a75917"
     },
     "8665b271-e0db-53ae-ede9-fbaa5b300ab1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Lake.mesh.nasset/Lake.mesh.nasset",
+        "thumbnail": "a62685e6-5b5b-4227-b0eb-ec21b8eb7479",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -3920,7 +4344,8 @@
     },
     "86cb252c-90da-4aa1-4cc8-a0dc8171f80a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Bark Oak.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Bark Oak.mtli.nasset",
+        "thumbnail": "0bdfe3bc-9f61-2d1b-3a66-43c7a775a530"
     },
     "86f16b54-50c5-ae75-5e19-23b1d1273f55": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3962,9 +4387,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "883b4e1d-f46b-6b2d-3df2-c8d2c7c05b67": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Esse Double.mesh.nasset/Thumbnails/Track Striped Esse Double.mesh.nasset.tex.nasset"
+    },
     "88502469-f782-f950-cf04-87014effe502": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/SM_Buggy_Wheel.scene.nasset"
+        "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/SM_Buggy_Wheel.scene.nasset",
+        "thumbnail": "faf09fcf-d4fe-6fa6-a707-9e6c10746d68"
     },
     "887186f9-446c-5995-3298-c9935036532f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4006,6 +4436,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8a6c61b4-b08d-415c-c401-038964164f6b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 3 Tall Single.mesh.nasset/Thumbnails/Track Cliff Edge Striped 3 Tall Single.mesh.nasset.tex.nasset"
+    },
+    "8a7a9305-96fa-7871-c311-f367c9013bdc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Bale Barrel.mesh.nasset/Thumbnails/Prop Decorative Hay Bale Barrel.mesh.nasset.tex.nasset"
+    },
     "8aaf8b7f-be77-5596-56b2-9f1179365fdb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4014,9 +4452,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8ac19cee-a0f8-5dae-347d-852d7f75bad4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Straight Double.mesh.nasset/Thumbnails/Track Standard Straight Double.mesh.nasset.tex.nasset"
+    },
     "8ac81e46-721d-5de9-0ee4-5332c65a7812": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 6x6 Flipped.mesh.nasset/Track Cliff Curve Striped Single 6x6 Flipped.mesh.nasset",
+        "thumbnail": "ff100fb8-d6d8-e647-4cd3-b84b6195d28d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4051,7 +4494,8 @@
     },
     "8ce09d14-af78-f1d5-d482-aa4a87c6c327": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Cedar Leaves.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Cedar Leaves.mtli.nasset",
+        "thumbnail": "6bc30416-fb57-2b30-19dc-db9a33e76d74"
     },
     "8d926416-e8cf-33c2-94f7-ec4dcc0915f8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4060,6 +4504,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "8e00bf99-6762-ef81-6d1a-4024c02d23f9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign Upcoming Esse.mesh.nasset/Thumbnails/Prop Track Sign Upcoming Esse.mesh.nasset.tex.nasset"
     },
     "8e590c8b-967e-da51-ccfd-fe3428539d3b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4111,7 +4559,8 @@
     },
     "8fd6be47-2b98-2f53-a4b9-2155f8117742": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Wood Dark.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Wood Dark.mtli.nasset",
+        "thumbnail": "4594eede-7e74-c29e-6ba9-296e6eabe696"
     },
     "8fe7243c-ee19-fded-1611-f32330ec4765": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4136,6 +4585,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "908c0801-d26d-5578-c103-2894ce2eea0a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Outer 4x4.mesh.nasset/Thumbnails/Terrain Hill Corner Outer 4x4.mesh.nasset.tex.nasset"
     },
     "90c3bc55-fd64-98f1-706a-03191ec5a202": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4184,6 +4637,7 @@
     "91ee8d2a-8f9a-1e24-b8fd-357c6d8c3df2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Esse Double.mesh.nasset/Track Striped Esse Double.mesh.nasset",
+        "thumbnail": "883b4e1d-f46b-6b2d-3df2-c8d2c7c05b67",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4198,7 +4652,8 @@
     },
     "934f49a1-254e-b635-e2f9-55ec5854d9e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Buggy Bumper.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Bumper.mtli.nasset",
+        "thumbnail": "817377a7-6e3b-4c5f-6848-e3b8de1be5db"
     },
     "939dbcf1-d8bc-4cb4-6002-9cc717edd616": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4235,6 +4690,7 @@
     "94811f65-b41b-1875-e6d2-07f4ed52c3a5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Corner Inner 1x1.mesh.nasset/Terrain Cliff Top Corner Inner 1x1.mesh.nasset",
+        "thumbnail": "6281e0e2-9273-d75e-2437-3ec1da3a2fb1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4282,9 +4738,14 @@
     "952cc0fb-d31a-7182-449f-4e40c9b76ee1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 4x4.mesh.nasset/Prop Decorative Fence Curve 4x4.mesh.nasset",
+        "thumbnail": "0347ef05-3cf0-4deb-4a05-6a889306b42a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "95521cc9-9875-05ad-f0b5-817f72d56b35": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Single 5x5.mesh.nasset/Thumbnails/Track Striped Curve Single 5x5.mesh.nasset.tex.nasset"
     },
     "95628ee8-bda5-5645-11bd-6ef39bcf5643": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4318,6 +4779,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "9646c094-cda2-9243-d435-c8ba54136b3c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Inner 5x5.mesh.nasset/Thumbnails/Terrain Hill Corner Inner 5x5.mesh.nasset.tex.nasset"
+    },
     "96818b53-038b-dc0f-ed6a-8b300ca45cde": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4337,6 +4802,7 @@
     "97fabe0b-022f-c779-e782-bb7c6a27cdbe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Esse 2x3.mesh.nasset/Prop Decorative Fence Esse 2x3.mesh.nasset",
+        "thumbnail": "cf591fbb-294e-5d2a-27b8-c46166a5fae8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4360,6 +4826,7 @@
     "98bbe22e-d7eb-1b0d-2253-9edbade39471": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 6.mesh.nasset/Prop Decorative Rock 6.mesh.nasset",
+        "thumbnail": "a1bd6ffa-cc54-06a9-c703-3063bc07ff64",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4452,6 +4919,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "9b8c8645-aff6-38c0-0b1f-90c83ef6cb67": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 5x5 Flipped.mesh.nasset/Thumbnails/Track Cliff Curve Striped Single 5x5 Flipped.mesh.nasset.tex.nasset"
+    },
     "9ba31afe-45d6-9702-e95e-4144ccdcdc6a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4467,6 +4938,7 @@
     "9bda71a3-229a-dfa8-1671-b726e5b89013": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Piers.mesh.nasset/Track Bridge Piers.mesh.nasset",
+        "thumbnail": "12d17b64-d993-a634-f5c5-117f3c1186cd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4539,6 +5011,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "9eba8ddf-183b-47ec-9b68-c277ef4450b6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Hill.mesh.nasset/Thumbnails/Prop Decorative Fence Hill.mesh.nasset.tex.nasset"
+    },
     "9f7e40c0-8ffe-93fa-ae3b-6f4122667ca5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Grey 20.mtli.nasset"
@@ -4566,9 +5042,14 @@
     "a0b86216-e9df-19b5-ecd1-122dcd5ed6bf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 5x5.mesh.nasset/Prop Decorative Fence Curve 5x5.mesh.nasset",
+        "thumbnail": "4a1835c0-3828-2993-1544-5d6620357200",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "a0edecfc-ab7a-8ceb-c9e5-acd638d25ce1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Wood Medium.mtli.nasset.tex.nasset"
     },
     "a120342e-66cc-0403-1f94-bf8f32595614": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4594,6 +5075,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "a1bd6ffa-cc54-06a9-c703-3063bc07ff64": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 6.mesh.nasset/Thumbnails/Prop Decorative Rock 6.mesh.nasset.tex.nasset"
+    },
     "a1d8a420-fe44-3323-7274-8f2c13902e29": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4617,6 +5102,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "a26d22a9-f779-8778-6639-825eb5f19d72": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Banner Finish Line Double Checkered.mesh.nasset/Thumbnails/Prop Track Banner Finish Line Double Checkered.mesh.nasset.tex.nasset"
     },
     "a28bbe41-1017-ddfa-ce63-68954c474413": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4645,13 +5134,15 @@
     "a36add8b-d918-f2bb-9951-1b7c89f2f959": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 8.mesh.nasset/Prop Decorative Rock 8.mesh.nasset",
+        "thumbnail": "ffb69c36-80bd-ac8b-7997-0ce028632c13",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Buggy Rim.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Rim.mtli.nasset",
+        "thumbnail": "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4"
     },
     "a45a4ea1-a5a6-d2e2-c93f-a4b67ab4ad7f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4660,6 +5151,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "a485f29f-621d-5d7d-e362-790ebcf1bf33": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Water Lake.mtli.nasset.tex.nasset"
     },
     "a4875ea9-f678-4a75-464c-a12a011d8f77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4736,6 +5231,7 @@
     "a57f1203-2ab8-7cb3-9f83-76edda843f98": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 2 Tall Corner Outer 1x1.mesh.nasset/Terrain Cliff 2 Tall Corner Outer 1x1.mesh.nasset",
+        "thumbnail": "82c358f9-6207-ea11-0ea9-2894146a8dc9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4743,6 +5239,7 @@
     "a5d7974a-e2df-82b9-8874-f8f5b4f5a787": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Windmill Building 1.mesh.nasset/Prop Decorative Windmill Building 1.mesh.nasset",
+        "thumbnail": "839164d3-87c1-40bb-a534-6f498203f121",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4755,6 +5252,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "a62685e6-5b5b-4227-b0eb-ec21b8eb7479": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Lake.mesh.nasset/Thumbnails/Lake.mesh.nasset.tex.nasset"
+    },
     "a65b3481-76a5-491f-106d-80c5325544ab": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Grey.mtli.nasset"
@@ -4763,9 +5264,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
     },
+    "a6f1de9f-9175-338b-de6c-65c65ed33568": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Bale Box.mesh.nasset/Thumbnails/Prop Decorative Hay Bale Box.mesh.nasset.tex.nasset"
+    },
     "a716ac91-1e6f-b105-d8e1-a3aa3a4e5f5b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Double 5x5.mesh.nasset/Track Striped Curve Double 5x5.mesh.nasset",
+        "thumbnail": "77ce3db1-a2d9-be8a-c8cc-34ada770f629",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4778,6 +5284,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "a7ad884f-ffa2-9381-9092-20d4a551218d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Burlap.mtli.nasset.tex.nasset"
+    },
     "a7b605e2-a82f-6033-36f2-3155acc927fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4789,6 +5299,7 @@
     "a7c6e982-7f44-206e-8ed7-982b924533c8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Pile.mesh.nasset/Prop Decorative Hay Pile.mesh.nasset",
+        "thumbnail": "b45dcbc8-72ba-964a-1525-8da3430e7afa",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4796,6 +5307,7 @@
     "a81b42d5-b856-6367-88f9-91804fc38efe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 2x2.mesh.nasset/Prop Decorative Fence Curve 2x2.mesh.nasset",
+        "thumbnail": "59a9766c-6427-a934-1ec6-a46b451c18fd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4848,6 +5360,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "a94bc7fa-1ae7-1b73-65c9-101e5c4cb3c4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Curve Single 3x3.mesh.nasset/Thumbnails/Track Standard Curve Single 3x3.mesh.nasset.tex.nasset"
+    },
     "a97a7842-c91c-f05b-1a3c-6ab5ad6157c2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4872,6 +5388,7 @@
     "ab10e892-18ca-cdfe-cbc5-f16db923b865": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Standard 1 Tall Double.mesh.nasset/Track Cliff Incline Standard 1 Tall Double.mesh.nasset",
+        "thumbnail": "0a2235cf-4280-c85b-c679-b3dffaf6d275",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4879,6 +5396,7 @@
     "ab26ddd3-5af8-da1a-ac45-defd48b9c256": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Straight Widening.mesh.nasset/Track Striped Straight Widening.mesh.nasset",
+        "thumbnail": "05a5b0ea-3193-1ece-1cab-f8347a562f61",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4886,6 +5404,7 @@
     "ab374e7e-09bc-5d35-e855-e82d7dd054ec": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped End Straight Single.mesh.nasset/Track Striped End Straight Single.mesh.nasset",
+        "thumbnail": "03457252-06a7-7d65-2eea-2d9597affbf2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4913,6 +5432,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "abe968ae-57bb-2a7c-25a2-ed011b9bc5f5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 2.mesh.nasset/Thumbnails/Prop Decorative Rock 2.mesh.nasset.tex.nasset"
     },
     "ac432763-3aa6-1d12-f606-30b21af9204c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4973,6 +5496,7 @@
     "ae8242d0-27da-5da1-7015-f6310e78b0a8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Hill.mesh.nasset/Prop Decorative Fence Hill.mesh.nasset",
+        "thumbnail": "9eba8ddf-183b-47ec-9b68-c277ef4450b6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -4980,6 +5504,7 @@
     "ae9640bd-ebad-5aee-e182-12efe61f59d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 3x3.mesh.nasset/Prop Decorative Fence Curve 3x3.mesh.nasset",
+        "thumbnail": "b3f6064a-37b9-aaa5-7154-a95b400116f0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5002,11 +5527,13 @@
     },
     "afebeed6-8f73-3dd2-54a2-7151b819be1f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Grey 20.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Grey 20.mtli.nasset",
+        "thumbnail": "688ec807-9bc7-da73-f25b-8b128555d474"
     },
     "aff61fea-bec8-6fb5-17da-f10f8d804ccc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Esse Single.mesh.nasset/Track Striped Esse Single.mesh.nasset",
+        "thumbnail": "47e9ecbc-ff31-6a61-fddb-a6ac3800aecb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5071,6 +5598,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "b2e2724c-a593-6f5d-4f2f-63cbc92d9dde": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
+    },
     "b35d8508-5e9e-504c-a04c-4481f16b7e65": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5087,6 +5618,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "b3f6064a-37b9-aaa5-7154-a95b400116f0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 3x3.mesh.nasset/Thumbnails/Prop Decorative Fence Curve 3x3.mesh.nasset.tex.nasset"
+    },
     "b44fd067-7f19-988e-f2eb-897dc6a9ac6c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5094,6 +5629,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b45dcbc8-72ba-964a-1525-8da3430e7afa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Pile.mesh.nasset/Thumbnails/Prop Decorative Hay Pile.mesh.nasset.tex.nasset"
     },
     "b46474d6-7e6a-7778-65e2-2df5d925472e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5114,6 +5653,7 @@
     "b4699e7e-3edf-0152-6ca2-b3e9158c7b99": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Post.mesh.nasset/Prop Decorative Fence Post.mesh.nasset",
+        "thumbnail": "fac8b398-79ee-ca08-795d-411ce21a7643",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5182,6 +5722,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "b5a55ea5-ccc6-fabb-d52e-529dce10ef24": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Striped 1 Tall Double.mesh.nasset/Thumbnails/Track Cliff Incline Striped 1 Tall Double.mesh.nasset.tex.nasset"
+    },
     "b5d2d635-52d0-4733-2bd9-e1f7c93d993a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Rock.mtli.nasset"
@@ -5193,6 +5737,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b65ace2b-849b-3e27-6cb0-189c1d8d5c49": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Cedar 3.mesh.nasset/Thumbnails/Prop Decorative Tree Cedar 3.mesh.nasset.tex.nasset"
     },
     "b6b7a98e-586f-3c23-ef81-2332b7adb2d0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5217,6 +5765,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b736ffd1-18a0-9e61-8646-22dd97aca183": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Thumbnails/SC_Barrio_Kart.scene.nasset.tex.nasset"
     },
     "b7387448-3dc2-bdb9-3859-aee350ab0977": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5260,11 +5812,13 @@
     },
     "b8856904-15c0-8e1d-08bc-07cbfbef77e2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Burlap.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Burlap.mtli.nasset",
+        "thumbnail": "a7ad884f-ffa2-9381-9092-20d4a551218d"
     },
     "b9a48ecc-5e98-a1ae-9397-6d2d19700c74": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset",
+        "thumbnail": "fbbd215e-a796-45b2-f52f-71f28bd7d206"
     },
     "b9bc4aa6-a3dc-ee06-e051-ac6ee9fa8bc3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5304,7 +5858,8 @@
     },
     "ba4fe86c-92cc-5b9b-8137-b025cdcf6725": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset",
+        "thumbnail": "44aabdad-5b6e-59ed-465e-1fdc1dfa1d03"
     },
     "ba533925-5322-adea-4a80-e2d8895b5760": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5330,6 +5885,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "bafe8322-2eec-bc49-f5b3-5d7d6cb09392": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Straight Double.mesh.nasset/Thumbnails/Track Striped Straight Double.mesh.nasset.tex.nasset"
+    },
     "bc050300-2dee-2938-5f5c-23bcae8efd3e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Grey 20.mtli.nasset"
@@ -5346,9 +5905,14 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Dirt.mtli.nasset"
     },
+    "bd636fcb-495e-b998-e5b4-a5920b53c302": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Sharp Flat Floating.mesh.nasset/Thumbnails/Track Bridge Incline Sharp Flat Floating.mesh.nasset.tex.nasset"
+    },
     "bd837855-9f02-9e9c-43d6-40e558c1c0ad": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Straight Double.mesh.nasset/Track Striped Straight Double.mesh.nasset",
+        "thumbnail": "bafe8322-2eec-bc49-f5b3-5d7d6cb09392",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5379,7 +5943,8 @@
     },
     "be561030-6cf1-02f0-f42b-ba9bb36c3abe": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Buggy Rubber.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Buggy Rubber.mtli.nasset",
+        "thumbnail": "4fca276e-f61b-5d45-76c0-235d4a1a1887"
     },
     "be67733d-5899-e8c9-1b4d-e54c10e89a9b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5420,9 +5985,14 @@
     "bf4299c2-31f7-5a79-ac7f-6dc3b4e443a8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Lighthouse.mesh.nasset/Prop Decorative Lighthouse.mesh.nasset",
+        "thumbnail": "c48d6c81-a6fc-e64f-6aa7-8b393458bdaa",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "bf4adcaa-6884-0600-a702-b20d3cbdc466": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign Upcoming Curve 90 Flipped.mesh.nasset/Thumbnails/Prop Track Sign Upcoming Curve 90 Flipped.mesh.nasset.tex.nasset"
     },
     "bf541ecc-1318-25e0-d34b-a8e69af4b6cf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5459,9 +6029,14 @@
     "c0d5c563-cced-9de8-8d6e-fdbd77823601": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Pile Pitchfork.mesh.nasset/Prop Decorative Hay Pile Pitchfork.mesh.nasset",
+        "thumbnail": "31bb5104-71b7-77a4-181c-03862680d5d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "c0efd1d3-7374-6644-abfb-8df4d02c1a9d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Incline Single.mesh.nasset/Thumbnails/Track Striped Incline Single.mesh.nasset.tex.nasset"
     },
     "c1189ca0-a8e2-9028-b3b6-b117d6a5c568": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5508,6 +6083,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "c26c1110-de0b-52ae-49a7-e1ccfc0015ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Curve 3x3 Piers.mesh.nasset/Thumbnails/Track Bridge Curve 3x3 Piers.mesh.nasset.tex.nasset"
+    },
     "c2f55b10-b86e-74d3-81cf-3cbfee7481b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5515,6 +6094,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "c30b46ad-5c9f-2ea4-205f-7207c3a75917": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Frame.mtli.nasset.tex.nasset"
+    },
+    "c3549a9f-eea0-9b3f-87c2-6c44d8072a0e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 3.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 3.mesh.nasset.tex.nasset"
     },
     "c36afb11-1ab7-a1b3-ff5f-0e057dc80f3f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5544,6 +6131,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "c48d6c81-a6fc-e64f-6aa7-8b393458bdaa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Lighthouse.mesh.nasset/Thumbnails/Prop Decorative Lighthouse.mesh.nasset.tex.nasset"
+    },
     "c4acaef4-a3c7-6e09-dae9-7dd840043406": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5551,6 +6142,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Rim.mtli.nasset.tex.nasset"
     },
     "c5d18349-1611-4896-cd82-346a9b180b1a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5651,6 +6246,7 @@
     "c7b4b617-924a-2f2c-ae1c-995d12e15c89": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 2.mesh.nasset/Prop Decorative Rock 2.mesh.nasset",
+        "thumbnail": "abe968ae-57bb-2a7c-25a2-ed011b9bc5f5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5787,6 +6383,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "ccaaa36f-3329-352b-783c-4286aaafa143": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Double 6x6 Flipped.mesh.nasset/Thumbnails/Track Cliff Curve Striped Double 6x6 Flipped.mesh.nasset.tex.nasset"
+    },
     "ccf36a14-7eed-d1ad-ef82-1a07007bfbee": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5794,6 +6394,14 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "cd30afa5-6663-626e-f0d6-b308acfb267d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Thumbnails/SM_Buggy_Body.scene.nasset.tex.nasset"
+    },
+    "cd3396a6-af08-8645-02b8-b33026b1d668": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 5x6.mesh.nasset/Thumbnails/Prop Decorative Fence Curve 5x6.mesh.nasset.tex.nasset"
     },
     "cd3ba10e-06ca-e1cf-1b49-10c7701681f4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5814,6 +6422,7 @@
     "cdfde245-a12f-811d-0a7a-29807bd9a4fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 3 Tall Double.mesh.nasset/Track Cliff Edge Striped 3 Tall Double.mesh.nasset",
+        "thumbnail": "dd9a0a63-5415-6e8c-aad0-b908f1692825",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5842,9 +6451,18 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "cf590eb4-720a-0aa5-29e6-874658fd38e2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Straight Single.mesh.nasset/Thumbnails/Track Striped Straight Single.mesh.nasset.tex.nasset"
+    },
+    "cf591fbb-294e-5d2a-27b8-c46166a5fae8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Esse 2x3.mesh.nasset/Thumbnails/Prop Decorative Fence Esse 2x3.mesh.nasset.tex.nasset"
+    },
     "cf789962-f36b-ab97-21e6-30781cbb3577": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Windmill.mesh.nasset/Prop Decorative Windmill.mesh.nasset",
+        "thumbnail": "df65f7f4-22a6-bc92-00e8-4e2d30080f41",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5852,6 +6470,7 @@
     "d028932b-562f-42a2-9e2d-6c807eb94ea6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Esse 2x3 Flipped.mesh.nasset/Prop Decorative Fence Esse 2x3 Flipped.mesh.nasset",
+        "thumbnail": "1aed86c1-7edb-9581-0413-681a4b75bcb5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -5880,6 +6499,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d1893a52-f89d-179e-7175-de6eac8847f0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
     "d1ece4e0-6927-a799-8bb5-19571da88f6e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5887,6 +6510,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d24b292d-a2e9-e658-d0c0-fe0f6fec1216": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Esse Single.mesh.nasset/Thumbnails/Track Standard Esse Single.mesh.nasset.tex.nasset"
     },
     "d26379b9-fcb1-dc34-d45a-6aa9cba81b45": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5936,6 +6563,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d34be12f-a620-d6a8-4865-d760920392dc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Outer 3x3.mesh.nasset/Thumbnails/Terrain Hill Corner Outer 3x3.mesh.nasset.tex.nasset"
+    },
     "d3548ce4-79db-3330-4677-86381cd1328e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5959,6 +6590,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "d4230f8c-5a1d-943b-6fa8-6132040d4cb5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Grass.mtli.nasset.tex.nasset"
     },
     "d43affea-87b1-0622-20f3-6273f53a36bb": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -5999,9 +6634,14 @@
     "d4a8c7d5-0163-d721-964c-541ff87ac282": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Finish Line Double Checkered.mesh.nasset/Track Striped Finish Line Double Checkered.mesh.nasset",
+        "thumbnail": "f9ee1a03-1634-29bf-f0de-91d1d626077d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d4b213f6-1066-0eaf-dfae-537c580731a4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 2 Tall Corner Inner 2x2.003.mesh.nasset/Thumbnails/Terrain Cliff 2 Tall Corner Inner 2x2.003.mesh.nasset.tex.nasset"
     },
     "d5249b6f-4b67-0dec-c720-6411591243fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6038,6 +6678,7 @@
     "d5a3a57f-1f65-33ad-d776-31365cacd0b6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Sharp Floating.mesh.nasset/Track Bridge Incline Sharp Floating.mesh.nasset",
+        "thumbnail": "f2136b05-7111-cae9-0dbf-972157a7f8a4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6143,6 +6784,10 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Track/SM_Proc_Fence.scene.nasset/SM_Proc_Fence.scene.nasset"
     },
+    "d7fad752-5312-a905-b284-f7d4ab67fe44": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Curve Double 4x4.mesh.nasset/Thumbnails/Track Striped Curve Double 4x4.mesh.nasset.tex.nasset"
+    },
     "d8149d2a-b315-6152-4563-7258c19892ad": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6155,9 +6800,14 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Boost Powerup.mtli.nasset"
     },
+    "d9172c6e-7748-f654-b6ff-f37e3755c25b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Incline Striped 3 Tall Double.mesh.nasset/Thumbnails/Track Cliff Incline Striped 3 Tall Double.mesh.nasset.tex.nasset"
+    },
     "d93b368f-ce64-4518-8105-ad143fb179b3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/SM_Buggy_Body.scene.nasset"
+        "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/SM_Buggy_Body.scene.nasset",
+        "thumbnail": "cd30afa5-6663-626e-f0d6-b308acfb267d"
     },
     "d96b75ca-d13a-5666-50ba-42593b776725": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6224,6 +6874,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "dc824052-e0cf-bbaa-1496-a3fc81d542ec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Arch 1x4.mesh.nasset/Thumbnails/Prop Track Arch 1x4.mesh.nasset.tex.nasset"
+    },
     "dcb2e8e6-d694-f5fc-7980-c73b1323191f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6232,9 +6886,18 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "dd7a2c4e-1717-d60d-bc03-7769efd852d5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Rock.mtli.nasset.tex.nasset"
+    },
+    "dd9a0a63-5415-6e8c-aad0-b908f1692825": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Edge Striped 3 Tall Double.mesh.nasset/Thumbnails/Track Cliff Edge Striped 3 Tall Double.mesh.nasset.tex.nasset"
+    },
     "ddec81b2-8d37-08f1-8d58-559fbc607bf3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Flat Floating.mesh.nasset/Track Bridge Flat Floating.mesh.nasset",
+        "thumbnail": "17198900-0ad9-13bf-0382-e74b74e2a320",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6242,13 +6905,15 @@
     "de05a9f6-685c-aea4-a953-9b6f2470aa63": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 6.mesh.nasset/Prop Decorative Tree Elm 6.mesh.nasset",
+        "thumbnail": "2519fc0c-b5f6-403e-0852-4a6b2c14d4e5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "de6665fe-6b2f-aa43-a830-e067769a3165": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset"
+        "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset",
+        "thumbnail": "61cd6ac3-7a8d-8fe2-41a9-3b4aa882f52b"
     },
     "dece4ec8-acc4-633b-fb3d-c2108b3e2177": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6261,6 +6926,7 @@
     "ded98315-37f8-162a-1dc4-3bcfd90b624c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Cliff Curve Striped Single 6x6.mesh.nasset/Cliff Curve Striped Single 6x6.mesh.nasset",
+        "thumbnail": "0adb5832-ac37-70a5-93dc-cc0612c7fdbd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6268,6 +6934,7 @@
     "df07f911-4c2e-1fe4-5f04-e272dcdba9a1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Sharp Flat Supported.mesh.nasset/Track Bridge Incline Sharp Flat Supported.mesh.nasset",
+        "thumbnail": "0bd0eb61-9c57-760e-36a3-ba236b37d114",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6275,9 +6942,14 @@
     "df4d5cfb-5f3e-13f5-8add-bd4127b5d30b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 5.mesh.nasset/Prop Decorative Rock 5.mesh.nasset",
+        "thumbnail": "7026fa0b-3d7d-a741-11b7-b9bfb6369fa6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "df65f7f4-22a6-bc92-00e8-4e2d30080f41": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Windmill.mesh.nasset/Thumbnails/Prop Decorative Windmill.mesh.nasset.tex.nasset"
     },
     "df72e996-f393-ba8a-88b1-8d035c74087f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6314,9 +6986,14 @@
     "e0bfa665-cf21-d908-882c-dbf8d4e8c4c8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Corner Outer 1x1.mesh.nasset/Terrain Cliff Top Corner Outer 1x1.mesh.nasset",
+        "thumbnail": "1e3d8bb4-b84b-c696-e870-8e866dc9588d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "e14fd92f-af24-6dd9-d03b-11113da25ad7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 6x6.mesh.nasset/Thumbnails/Track Cliff Curve Striped Single 6x6.mesh.nasset.tex.nasset"
     },
     "e19660aa-8bb5-3b09-3572-41dabef08783": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6337,6 +7014,7 @@
     "e1f5da9a-22ce-0a8a-8ea7-b67463b61168": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Corner Inner 2x2.mesh.nasset/Terrain Cliff 3 Tall Corner Inner 2x2.mesh.nasset",
+        "thumbnail": "5f40401f-e2c4-2284-718c-65c39a22b82c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6344,6 +7022,7 @@
     "e1fbae9f-dda1-4500-4df6-cac6ce1491b3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 5x5 Flipped.mesh.nasset/Track Cliff Curve Striped Single 5x5 Flipped.mesh.nasset",
+        "thumbnail": "9b8c8645-aff6-38c0-0b1f-90c83ef6cb67",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6359,6 +7038,7 @@
     "e20ac146-99f0-1808-16ad-fe00ffd2b4d5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Hill Corner Outer 3x3.mesh.nasset/Terrain Hill Corner Outer 3x3.mesh.nasset",
+        "thumbnail": "d34be12f-a620-d6a8-4865-d760920392dc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6395,6 +7075,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e3250881-c6b1-4d74-61da-0b96c0841a81": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Indigo 500.mtli.nasset.tex.nasset"
+    },
     "e39f5680-9676-08a9-7b3e-1d9157916aa3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6413,7 +7097,8 @@
     },
     "e4367206-1c51-43ec-1cca-48d7de66342b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Grass.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Grass.mtli.nasset",
+        "thumbnail": "d4230f8c-5a1d-943b-6fa8-6132040d4cb5"
     },
     "e4387290-cba9-62b7-6728-649f5da8352f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6426,6 +7111,7 @@
     "e439a8bc-d2e9-d41f-6dd1-a1b57a8b07aa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Track Sign Upcoming Esse.mesh.nasset/Prop Track Sign Upcoming Esse.mesh.nasset",
+        "thumbnail": "8e00bf99-6762-ef81-6d1a-4024c02d23f9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6449,6 +7135,7 @@
     "e5b8008c-79e7-5a1f-fa57-83b70cabab38": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 4.mesh.nasset/Prop Decorative Tree Elm 4.mesh.nasset",
+        "thumbnail": "5c827f67-74ee-8113-bba8-0034477609ed",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6557,6 +7244,7 @@
     "e92353d6-368d-ef0f-ebeb-d1ae63f19536": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 1.mesh.nasset/Prop Decorative Rock 1.mesh.nasset",
+        "thumbnail": "53121e1a-26f9-22fa-e306-7b541c9c6b0b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6588,6 +7276,7 @@
     "e941ba28-448c-cbe3-faf5-a62dc75f0e22": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Corner Outer 1x1.mesh.nasset/Terrain Cliff 3 Tall Corner Outer 1x1.mesh.nasset",
+        "thumbnail": "1e0057d0-c15c-d493-55bf-9ebe372fa271",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6619,6 +7308,7 @@
     "e9de4e9c-3dd5-4403-230a-05b15d7d8d20": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Double 6x6 Flipped.mesh.nasset/Track Cliff Curve Striped Double 6x6 Flipped.mesh.nasset",
+        "thumbnail": "ccaaa36f-3329-352b-783c-4286aaafa143",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -6681,9 +7371,14 @@
     "ebcacc1b-c955-cc31-0a74-5f3fd959ecfd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Curve 5x6 Flipped.mesh.nasset/Prop Decorative Fence Curve 5x6 Flipped.mesh.nasset",
+        "thumbnail": "7fc9a320-59fa-813e-4e98-83cd2ae180d5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "ebcea8bf-3f5e-92da-73e2-259b5386aa4f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Proxy.mtli.nasset.tex.nasset"
     },
     "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -6753,6 +7448,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "ee27fb40-4d44-c788-ea16-5bea279d43a7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff Top Corner Inner 2x2.mesh.nasset/Thumbnails/Terrain Cliff Top Corner Inner 2x2.mesh.nasset.tex.nasset"
     },
     "eeb8ca89-4bb5-204a-f0ac-8829e957a628": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6872,7 +7571,8 @@
     },
     "f19951a1-61e0-ac94-75d2-00938a336b29": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Black.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Black.mtli.nasset",
+        "thumbnail": "d1893a52-f89d-179e-7175-de6eac8847f0"
     },
     "f1cc6119-4232-152a-6ba7-434a07863dcb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6882,16 +7582,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f2136b05-7111-cae9-0dbf-972157a7f8a4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Bridge Incline Sharp Floating.mesh.nasset/Thumbnails/Track Bridge Incline Sharp Floating.mesh.nasset.tex.nasset"
+    },
     "f25e54d0-97f8-ed79-b37b-d760bef7f7f5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Straight Single.mesh.nasset/Track Standard Straight Single.mesh.nasset",
+        "thumbnail": "fb5b2299-19b3-426a-415a-72eaf4cb3d64",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "f266293e-6095-4809-1cba-262a6e3f6c67": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Stucco.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Stucco.mtli.nasset",
+        "thumbnail": "3ba03a7e-b8a1-d5a7-5b1d-dfe47fb68749"
     },
     "f270febb-ebf8-1e5b-1069-e6524aaaebc3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6948,6 +7654,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "f51cac07-c776-a608-afb5-7fbf24413eac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Finish Line Double Blank.mesh.nasset/Thumbnails/Track Striped Finish Line Double Blank.mesh.nasset.tex.nasset"
     },
     "f5af10a8-682a-3001-5de4-222d7702d4ee": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -7087,6 +7797,7 @@
     "f9953c52-c5d1-40e5-51be-64bf7c47dffb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Hay Bale Barrel.mesh.nasset/Prop Decorative Hay Bale Barrel.mesh.nasset",
+        "thumbnail": "8a7a9305-96fa-7871-c311-f367c9013bdc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -7098,6 +7809,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "f9ee1a03-1634-29bf-f0de-91d1d626077d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Striped Finish Line Double Checkered.mesh.nasset/Thumbnails/Track Striped Finish Line Double Checkered.mesh.nasset.tex.nasset"
     },
     "fa20b55c-cd80-d593-1ee1-23de178fb5cd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -7131,6 +7846,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "fac8b398-79ee-ca08-795d-411ce21a7643": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Fence Post.mesh.nasset/Thumbnails/Prop Decorative Fence Post.mesh.nasset.tex.nasset"
+    },
+    "faf09fcf-d4fe-6fa6-a707-9e6c10746d68": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Thumbnails/SM_Buggy_Wheel.scene.nasset.tex.nasset"
+    },
     "fb37e83a-d70f-4302-764a-556d26c36b1e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -7146,6 +7869,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "fb5b2299-19b3-426a-415a-72eaf4cb3d64": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Standard Straight Single.mesh.nasset/Thumbnails/Track Standard Straight Single.mesh.nasset.tex.nasset"
     },
     "fb67d883-b27c-046e-4470-f78bbf4d9911": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -7163,6 +7890,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "fbbd215e-a796-45b2-f52f-71f28bd7d206": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Orange 500.mtli.nasset.tex.nasset"
+    },
     "fbc23de2-924c-46e8-6e98-943edda502c8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -7170,6 +7901,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "fbf9ef78-1c16-3dff-e5db-872858bffc92": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Body.mtli.nasset.tex.nasset"
     },
     "fc27f26d-f565-c0bd-0e4b-8f991ed257bf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -7186,6 +7921,7 @@
     "fcac62eb-571b-d143-eac0-ad53de1fb0c0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Terrain Cliff 3 Tall Side.mesh.nasset/Terrain Cliff 3 Tall Side.mesh.nasset",
+        "thumbnail": "2846a404-aacc-1106-3622-b5f87692c5ce",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -7240,7 +7976,8 @@
     },
     "fee74b13-f400-8be1-b0ba-77e82a92070b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Grey 40.mtli.nasset"
+        "path": "Assets/Track/Material Instances/Grey 40.mtli.nasset",
+        "thumbnail": "67faa78b-e608-3bb8-0444-2e390a1badb9"
     },
     "fef5a657-187d-f7ed-22bc-c948741535c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -7250,6 +7987,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "ff100fb8-d6d8-e647-4cd3-b84b6195d28d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Track Cliff Curve Striped Single 6x6 Flipped.mesh.nasset/Thumbnails/Track Cliff Curve Striped Single 6x6 Flipped.mesh.nasset.tex.nasset"
+    },
     "ff2e2378-bb0c-39f4-2b00-ad6fefa90d17": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -7257,6 +7998,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "ffb69c36-80bd-ac8b-7997-0ce028632c13": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 8.mesh.nasset/Thumbnails/Prop Decorative Rock 8.mesh.nasset.tex.nasset"
     },
     "ffc9b835-4406-e9e2-4f5c-383acb2fb510": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
