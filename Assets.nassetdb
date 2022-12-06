@@ -1,4 +1,8 @@
 {
+    "00a81661-c90e-3c26-b2c3-b4f1793dd06f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 2.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 2.mesh.nasset.tex.nasset"
+    },
     "00be4a84-a3bf-ac9e-d422-ebe045a48f0c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -19,6 +23,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 1.mesh.nasset/Prop Decorative Tree Elm 1.mesh.nasset",
+        "thumbnail": "b731d2c8-aa7a-900f-8bf6-7c77ae1cb183",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -313,6 +318,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 2.mesh.nasset/Prop Decorative Tree Elm 2.mesh.nasset",
+        "thumbnail": "00a81661-c90e-3c26-b2c3-b4f1793dd06f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -603,6 +609,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "203f3831-6813-ced9-1c28-2c9b4123a5bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Yellow.mtli.nasset.tex.nasset"
+    },
     "20765f0b-1cb7-4b14-f757-abc4acc1a9de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -813,10 +823,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Windmill Building 2.mesh.nasset/Thumbnails/Prop Decorative Windmill Building 2.mesh.nasset.tex.nasset"
     },
-    "2d99eee6-6fac-133a-2526-accafa3bca36": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Track/Material Instances/Thumbnails/Yellow.mtli.nasset.tex.nasset"
-    },
     "2da268f4-7429-7133-61b9-d1507b5f0800": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -836,7 +842,7 @@
     "2e62f39a-6aef-a991-e195-745ce047d5db": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Red.mtli.nasset",
-        "thumbnail": "4994f5b9-d8e9-0bec-ef11-3608b42467e7"
+        "thumbnail": "5bfd91d8-6be5-908a-aa18-ea33d36493ea"
     },
     "2f3de2c9-a469-370d-4a1c-b7a34e51c70b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1077,7 +1083,7 @@
     "3c37a2bf-c3d8-79df-e1b8-780c7c6faad7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Yellow.mtli.nasset",
-        "thumbnail": "2d99eee6-6fac-133a-2526-accafa3bca36"
+        "thumbnail": "203f3831-6813-ced9-1c28-2c9b4123a5bf"
     },
     "3d17911b-a4ed-4afd-b480-aedbefd0f13b": {
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
@@ -1422,10 +1428,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "4994f5b9-d8e9-0bec-ef11-3608b42467e7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Track/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
-    },
     "49b780c1-e471-3403-1e07-38e35c2adbea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1715,6 +1717,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Track/Material Instances/Leaves.mtli.nasset",
         "thumbnail": "790f7338-9eaf-ae78-ec59-f461d057648e"
+    },
+    "5bfd91d8-6be5-908a-aa18-ea33d36493ea": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
     },
     "5c1b082f-a28e-5b10-4eb2-06b1a7947adf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2267,7 +2273,8 @@
     "7b0efb3b-9b86-e7c0-b3d4-b31e0720ef5a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SM_Ocean.scene.nasset/SM_Ocean.scene.nasset"
+        "path": "Assets/Track/SM_Ocean.scene.nasset/SM_Ocean.scene.nasset",
+        "thumbnail": "c6d73abb-631c-27a9-1dda-edd3be7a4bee"
     },
     "7c0e33cf-ed02-cc2f-b091-a45bca411b79": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3209,6 +3216,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Cedar 3.mesh.nasset/Thumbnails/Prop Decorative Tree Cedar 3.mesh.nasset.tex.nasset"
     },
+    "b731d2c8-aa7a-900f-8bf6-7c77ae1cb183": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 1.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 1.mesh.nasset.tex.nasset"
+    },
     "b736ffd1-18a0-9e61-8646-22dd97aca183": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Thumbnails/SC_Barrio_Kart.scene.nasset.tex.nasset"
@@ -3452,6 +3463,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "c6d73abb-631c-27a9-1dda-edd3be7a4bee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Track/SM_Ocean.scene.nasset/Thumbnails/SM_Ocean.scene.nasset.tex.nasset"
     },
     "c70de269-2f14-4afc-b38f-f336591225b7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
