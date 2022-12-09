@@ -1,6 +1,7 @@
 {
     "name": "Buggy Bash",
     "guid": "093090ec-ec23-4b35-bb4c-c655da4cffe8",
+    "database_guid": "f74bae07-aa5d-41f7-a122-b3227c732252",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
