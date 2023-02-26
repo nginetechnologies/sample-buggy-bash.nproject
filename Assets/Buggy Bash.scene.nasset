@@ -51,18 +51,18 @@
             "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    366.0,
-                    6.0,
-                    3.0
+                    62.0,
+                    1082.0,
+                    52.0
                 ],
                 "rotation": [
                     0.0,
                     0.0,
-                    92.9994
+                    90.0
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
+                "asset": "bd05b030-fcf1-4f14-9d31-abcab9678d02"
             },
             "data_components": [
                 {

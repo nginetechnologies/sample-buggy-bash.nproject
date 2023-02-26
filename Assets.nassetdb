@@ -1,22 +1,23 @@
 {
-    "093090ec-ec23-4b35-bb4c-c655da4cffe8": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Project.nproject",
-        "name": "Buggy Bash",
-        "thumbnail": "dc16999d-bdaa-4949-8c11-46ec6666ec4a"
-    },
-    "a6051c8d-181a-ecaa-6048-cb485fdb9593": {
-        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
-        "path": "Assets.nassetdb"
-    },
     "4f18ecdb-bae4-417d-a922-ebbf8a8b7ab8": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Buggy Bash.scene.nasset"
     },
+    "a6051c8d-181a-ecaa-6048-cb485fdb9593": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "a6051c8d-181a-ecaa-6048-cb485fdb9593": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Buggy Bash",
+        "thumbnail": "84b8b702-c20b-796d-2952-bc0e48f1be31"
+    },
     "guid": "a6051c8d-181a-ecaa-6048-cb485fdb9593",
     "imported_assets": [
         "004ab170-80ce-496e-69dc-b5d0d355d407",
+        "bd05b030-fcf1-4f14-9d31-abcab9678d02",
         "0066d959-27d6-face-ad13-6863254dd1c7",
         "009a6bd3-5ecc-f77c-7c87-deeaac4540ba",
         "00ccdbad-0158-e66f-ea55-d2575333530d",
