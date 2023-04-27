@@ -1,7 +1,7 @@
 {
     "name": "Buggy Bash",
-    "guid": "093090ec-ec23-4b35-bb4c-c655da4cffe8",
-    "database_guid": "f74bae07-aa5d-41f7-a122-b3227c732252",
+    "guid": "a6051c8d-181a-ecaa-6048-cb485fdb9593",
+    "database_guid": "a6051c8d-181a-ecaa-6048-cb485fdb9593",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +12,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "dc16999d-bdaa-4949-8c11-46ec6666ec4a",
+    "thumbnail_guid": "84b8b702-c20b-796d-2952-bc0e48f1be31",
     "default_scene": "4f18ecdb-bae4-417d-a922-ebbf8a8b7ab8",
     "repository": "",
     "source": "Project.nproject",
