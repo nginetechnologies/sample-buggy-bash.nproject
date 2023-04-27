@@ -1,5 +1,4 @@
 {
-    "guid": "f74bae07-aa5d-41f7-a122-b3227c732252",
     "00a81661-c90e-3c26-b2c3-b4f1793dd06f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Tree Elm 2.mesh.nasset/Thumbnails/Prop Decorative Tree Elm 2.mesh.nasset.tex.nasset"
@@ -1697,7 +1696,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
+    "a03d74d7-9bab-4434-b714-b780882ede5a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Skybox.mtli.nasset",
@@ -4152,7 +4151,7 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Track/Material Instances/Thumbnails/Proxy.mtli.nasset.tex.nasset"
     },
-    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
+    "fedd8b99-922a-4db3-aef9-84b471f3aeb9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Player/Player.scene.nasset"
@@ -4364,6 +4363,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f74bae07-aa5d-41f7-a122-b3227c732252": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "f79aedd8-320c-55c2-c78b-8931ea4cc6bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4570,5 +4573,6 @@
     "ffb69c36-80bd-ac8b-7997-0ce028632c13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Track/SC_Barrio_Kart.scene.nasset/Prop Decorative Rock 8.mesh.nasset/Thumbnails/Prop Decorative Rock 8.mesh.nasset.tex.nasset"
-    }
+    },
+    "guid": "f74bae07-aa5d-41f7-a122-b3227c732252"
 }
