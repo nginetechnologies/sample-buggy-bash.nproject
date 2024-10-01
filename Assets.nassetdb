@@ -16,13 +16,14 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Buggy Bash",
-        "thumbnail": "dc16999d-bdaa-4949-8c11-46ec6666ec4a",
+        "thumbnail": "84b8b702-c20b-796d-2952-bc0e48f1be31",
         "tags": [
             "0c26b65a-dcc6-4109-aa99-44ccfc84ba67"
         ]
     },
     "guid": "a2cf3511-b162-4e13-b17b-3bc00ff668a5",
     "imported_assets": [
+        "84b8b702-c20b-796d-2952-bc0e48f1be31",
         "1cf66b70-be3b-ed22-5e21-99774a1568d2",
         "3e905ad2-d1fa-4259-a456-42da0d17f5dd",
         "2e5d6458-f003-4d2a-9a46-0f4926ec9e16",
